@@ -1,0 +1,1476 @@
+﻿Log file open, 08/08/18 20:57:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Am_i_Free
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1676221571) SRandInit(-1676221570).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.571212
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.613s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-28I2SJ6 (192.168.0.18:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.08-17.57.50:236][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.08-17.57.50:237][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.08-17.57.50:357][  0]LogInit: Computer: DESKTOP-28I2SJ6
+[2018.08.08-17.57.50:357][  0]LogInit: User: mglenovo
+[2018.08.08-17.57.50:357][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.08-17.57.50:357][  0]LogInit: High frequency timer resolution =2.435761 MHz
+[2018.08.08-17.57.50:359][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.08-17.57.50:359][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.08-17.57.50:359][  0]LogMemory: Process Physical Memory: 274.29 MB used, 274.29 MB peak
+[2018.08.08-17.57.50:359][  0]LogMemory: Process Virtual Memory: 264.56 MB used, 264.56 MB peak
+[2018.08.08-17.57.50:359][  0]LogMemory: Physical Memory: 6042.22 MB used,  10254.05 MB free, 16296.27 MB total
+[2018.08.08-17.57.50:359][  0]LogMemory: Virtual Memory: 4794.15 MB used,  10254.05 MB free, 134217728.00 MB total
+[2018.08.08-17.57.50:818][  0]LogInit: Using OS detected language (tr-TR).
+[2018.08.08-17.57.50:818][  0]LogInit: Using OS detected locale (tr-TR).
+[2018.08.08-17.57.50:959][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2018.08.08-17.57.51:796][  0]LogStreaming: Display: Took  0.977s to EndInitTextLocalization.
+[2018.08.08-17.57.51:796][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.08-17.57.52:135][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.08-17.57.52:135][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.08-17.57.58:717][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.08-17.57.59:505][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2018.08.08-17.57.59:505][  0]LogD3D11RHI:       4064/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.08-17.57.59:510][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.08.08-17.57.59:510][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.08-17.57.59:512][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.08-17.57.59:512][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.08-17.57.59:512][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.08-17.57.59:525][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.08-17.57.59:525][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.08-17.57.59:525][  0]LogWindows: EnumDisplayDevices:
+[2018.08.08-17.57.59:525][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.08.08-17.57.59:525][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.08-17.57.59:526][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.08-17.57.59:526][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.08-17.57.59:526][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2018.08.08-17.57.59:526][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.08-17.57.59:526][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.08-17.57.59:526][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2018.08.08-17.57.59:541][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.08.08-17.57.59:541][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.08-17.57.59:541][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.08-17.57.59:551][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.08-17.57.59:552][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Intermediate/Shaders/WorkingDirectory/11004/).
+[2018.08.08-17.57.59:552][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mg-lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/67AC243E4AB68208E5DFF0A6BC473B4B/'.
+[2018.08.08-17.58.00:781][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.08-17.58.00:795][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.08-17.58.00:809][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.08-17.58.00:822][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.08-17.58.00:859][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.08-17.58.00:873][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.08-17.58.00:886][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.08-17.58.00:900][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.08-17.58.00:906][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.08-17.58.00:918][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.08-17.58.00:930][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.08-17.58.00:941][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.08-17.58.00:953][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.08-17.58.00:965][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.08-17.58.00:977][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.08-17.58.01:001][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.08-17.58.01:001][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.08-17.58.01:034][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-17.58.01:035][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.08-17.58.01:190][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.08-17.58.01:220][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.08-17.58.01:235][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.08-17.58.01:247][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.08-17.58.01:259][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.08-17.58.01:291][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.08-17.58.01:291][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.08-17.58.02:020][  0]LogXGEController: Cleaning working directory: C:/Users/mg-lenovo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.08-17.58.02:020][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.08-17.58.02:020][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.08-17.58.02:020][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.08-17.58.07:216][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.08-17.58.08:224][  0]LogDerivedDataCache: Loaded boot cache 1.01s 74MB C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.08-17.58.08:224][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.08-17.58.08:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.08-17.58.08:225][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.08-17.58.08:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.08-17.58.08:225][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.08-17.58.08:350][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.08-17.58.08:363][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mg-lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.08-17.58.08:363][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.08-17.58.08:363][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.08-17.58.08:375][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.08-17.58.08:376][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.08-17.58.08:425][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.08-17.58.08:425][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.08-17.58.16:352][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.08.08-17.58.16:692][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.08-17.58.17:261][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.08-17.58.17:264][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.08-17.58.17:264][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.08-17.58.17:264][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.08-17.58.17:264][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.08-17.58.17:264][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.08-17.58.17:378][  0]LogNetVersion: Am_i_Free , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3243282978)
+[2018.08.08-17.58.19:446][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.056431 seconds
+[2018.08.08-17.58.19:453][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.08-17.58.19:453][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.08-17.58.19:453][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.08-17.58.50:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.08-17.58.50:223][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.08-17.58.51:315][  0]SourceControl: Source control is disabled
+[2018.08.08-17.58.51:315][  0]SourceControl: Source control is disabled
+[2018.08.08-17.58.51:339][  0]SourceControl: Source control is disabled
+[2018.08.08-17.58.51:365][  0]SourceControl: Source control is disabled
+[2018.08.08-17.58.52:222][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.08-17.58.52:428][  0]LogOcInput: OculusInput pre-init called
+[2018.08.08-17.58.52:683][  0]LogEngine: Initializing Engine...
+[2018.08.08-17.58.52:685][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.08-17.58.52:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.08-17.58.52:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.08-17.58.53:950][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.08-17.58.53:958][  0]LogInit: XAudio2 using 'Hoparlör (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.08-17.58.54:006][  0]LogInit: FAudioDevice initialized.
+[2018.08.08-17.58.54:470][  0]LogDerivedDataCache: Saved boot cache 0.46s 74MB C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.08-17.58.54:489][  0]LogInit: Texture streaming: Enabled
+[2018.08.08-17.58.54:586][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.08-17.58.54:930][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.08-17.58.55:147][  0]LogInit: Transaction tracking system initialized
+[2018.08.08-17.58.56:141][  0]BlueprintLog: New page: Editor Load
+[2018.08.08-17.58.58:247][  0]LocalizationService: Localization service is disabled
+[2018.08.08-17.59.00:398][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcd9c795a0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.08.08-17.59.00:538][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcd9c795a0, Size=88
+[2018.08.08-17.59.00:538][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcd9c795a0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_3:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.08.08-17.59.00:565][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcd978ea70, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.08.08-17.59.01:751][  0]LogConsoleResponse: Display: 
+[2018.08.08-17.59.04:667][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.08-17.59.04:667][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.08-17.59.04:674][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/' took 0.02s
+[2018.08.08-17.59.04:674][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.08-17.59.04:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.08-17.59.04:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.08-17.59.07:946][  0]SourceControl: Source control is disabled
+[2018.08.08-17.59.07:954][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.08-17.59.07:954][  0]LightingResults: New page: Lighting Build
+[2018.08.08-17.59.07:969][  0]MapCheck: New page: Map Check
+[2018.08.08-17.59.07:969][  0]LightingResults: New page: Lighting Build
+[2018.08.08-17.59.07:984][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcd9c795a0, Size=88
+[2018.08.08-17.59.13:973][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcdbf8cd00, Size=16, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-17.59.14:025][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcdbf8cd00, Size=16
+[2018.08.08-17.59.14:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcdbf8cd00, Size=16, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_6:ExecuteUbergraph_Tech_demo
+[2018.08.08-17.59.14:055][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcdbf8cc20, Size=16, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-17.59.27:958][  0]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.08-17.59.28:355][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.08-17.59.28:489][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcdbf8cd00, Size=16
+[2018.08.08-17.59.28:490][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.08-17.59.28:562][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72,223ms to complete.
+[2018.08.08-17.59.28:562][  0]LogFileHelpers: Loading map 'Tech_demo' took 20.609
+[2018.08.08-17.59.29:688][  0]LogCollectionManager: Loaded 0 collections in 0.002094 seconds
+[2018.08.08-17.59.29:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Collections/' took 0.01s
+[2018.08.08-17.59.29:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/Developers/mglenovo/Collections/' took 0.01s
+[2018.08.08-17.59.29:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/Collections/' took 0.01s
+[2018.08.08-17.59.29:813][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.08-17.59.29:822][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2452 classes and 558 folders.
+[2018.08.08-17.59.29:864][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.08-17.59.33:399][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.08.08-17.59.33:750][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.08.08-17.59.34:379][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.08-17.59.34:379][  0]LogLoad: (Engine Initialization) Total time: 119.27 seconds
+[2018.08.08-17.59.34:379][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.08-17.59.34:416][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.08-17.59.34:478][  0]LogSlate: Took 0.060113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.08-17.59.34:584][  0]LogSlate: Took 0.100456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.08-17.59.34:749][  0]LogSlate: Took 0.072063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.08-17.59.35:358][  0]LogSlate: Took 0.038989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.08-17.59.35:430][  1]LogRenderer: Reallocating scene render targets to support 728x400 Format 10 NumSamples 1 (Frame:1).
+[2018.08.08-17.59.35:456][  1]LogAssetRegistry: Asset discovery search completed in 79.1263 seconds
+[2018.08.08-17.59.35:462][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.08-17.59.35:462][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000091 seconds (updated 0 objects)
+[2018.08.08-17.59.35:821][  2]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.08-17.59.56:601][128]LogRenderer: Reallocating scene render targets to support 728x468 Format 10 NumSamples 1 (Frame:1086).
+[2018.08.08-17.59.58:246][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.00.00:139][325]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.00.01:447][325]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.00.01:484][325]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.00.01:484][325]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.00.01:484][325]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.00.01:484][325]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.00.01:527][325]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.00.01:759][325]LogSlate: Took 0.181784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.08-18.00.03:833][328]LogSlate: Took 0.025748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.08-18.00.03:849][329]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.00.04:151][330]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.00.04:151][330]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.00.04:151][330]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.00.04:151][330]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.00.04:483][331]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.00.04:483][331]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.00.04:483][331]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.00.04:483][331]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.00.04:483][331]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.00.04:483][331]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.00.04:831][332]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.00.04:831][332]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.00.04:831][332]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.00.05:150][333]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.00.05:150][333]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.00.05:858][334]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.08-18.00.05:858][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.08-18.00.05:858][334]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.08-18.00.05:858][334]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.08-18.01.16:825][102]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.16:838][102]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.01.16:838][102]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.01.16:838][102]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.01.16:838][102]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.01.17:539][142]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.01.17:597][145]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.01.17:630][147]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.01.17:643][148]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.01.17:801][157]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.01.17:853][160]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.01.17:891][162]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.01.18:151][176]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.01.18:171][177]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.01.18:349][187]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.01.18:447][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.01.18:465][193]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.01.18:687][203]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.18:806][203]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.01.18:807][203]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.01.18:807][203]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.01.18:810][203]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.18:829][203]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.18:847][203]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.01.19:058][209]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.01.19:078][210]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.01.19:078][210]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.01.19:113][212]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.01.19:179][215]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.19:254][216]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.01.19:332][221]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.01.19:369][223]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.01.19:474][229]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.01.19:537][232]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.01.19:557][233]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.01.19:616][236]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.01.19:723][240]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.01.19:972][253]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.01.20:026][256]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.01.20:097][260]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.01.20:207][265]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.20:272][265]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.20:272][265]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.01.20:290][265]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.20:291][265]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.20:291][265]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.01.20:297][265]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.20:298][265]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.20:298][265]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.01.20:343][265]MaterialEditorStats: Error: [SM5] Light function materials must be opaque.
+[2018.08.08-18.01.22:687][386]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.22:688][386]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.22:688][386]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.01.44:354][582]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.44:354][582]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.44:354][582]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.01.46:459][698]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.46:459][698]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.46:459][698]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.01.55:083][179]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.55:083][179]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.55:083][179]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.01.56:743][275]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.56:783][275]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.01.56:783][275]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.01.56:783][275]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.01.56:783][275]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.01.56:786][275]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.56:798][275]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.57:345][299]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.57:429][302]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.01.57:558][307]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.01.57:606][309]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.01.57:606][309]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.01.57:626][311]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.01.57:744][317]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.01.57:840][322]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.01.57:861][323]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.01.57:990][330]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.01.58:106][336]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.01.58:211][342]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.01.58:652][365]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.58:652][365]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.58:652][365]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2018.08.08-18.01.58:695][365]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.58:696][365]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.58:696][365]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2018.08.08-18.01.58:700][365]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.58:700][365]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.58:700][365]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2018.08.08-18.01.58:708][365]MaterialEditorStats: Error: [SM5] Volume materials must use an Additive blend mode.
+[2018.08.08-18.01.59:429][403]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.01.59:429][403]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.01.59:429][403]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2018.08.08-18.02.00:767][480]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.00:793][480]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.02.00:793][480]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.02.00:793][480]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.02.00:793][480]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.02.00:799][480]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.00:815][480]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.01:006][484]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.02.01:028][485]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.02.01:069][487]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.02.01:069][487]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.02.01:151][491]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.01:207][492]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.02.01:229][492]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.02.01:300][497]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.02.01:316][498]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.02.01:428][504]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.02.01:428][504]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.02.01:558][511]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.02.01:580][512]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.02.01:652][516]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.02.01:681][516]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.02.01:977][531]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.02.02:034][534]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.02.02:052][535]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.02.02:460][553]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.02:460][553]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.02:460][553]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.02:477][553]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.02:478][553]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.02:478][553]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.02:482][553]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.02:483][553]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.02:483][553]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.02:497][553]MaterialEditorStats: Error: [SM5] Light function materials must be opaque.
+[2018.08.08-18.02.03:516][609]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.03:516][609]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.03:516][609]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.04:427][663]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.04:451][663]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.02.04:451][663]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.02.04:451][663]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.02.04:451][663]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.02.04:454][663]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.04:505][663]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.04:653][664]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.02.04:653][664]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.02.04:680][666]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.02.04:701][667]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.02.04:866][675]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.02.04:888][676]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.02.04:926][678]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.02.04:967][680]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.02.05:105][686]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.02.05:175][688]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.02.05:377][698]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.02.05:449][701]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.05:472][701]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.02.05:524][702]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.02.05:676][711]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.02.05:744][715]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.02.05:797][718]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.02.05:907][724]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.02.05:994][729]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.02.06:014][730]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.02.06:032][731]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.02.06:154][738]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.02.06:440][752]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.02.06:483][754]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.02.06:511][754]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.02.06:785][766]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.06:896][770]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.02.06:975][774]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.02.06:993][775]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.02.07:108][781]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.02.07:182][784]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.02.07:244][786]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.02.07:333][790]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.02.07:405][794]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.02.07:431][795]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.02.07:490][798]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.02.07:760][812]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.02.07:829][816]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.02.07:899][820]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.02.08:196][836]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.02.08:323][843]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.02.08:360][845]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.02.08:528][854]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.02.08:689][862]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.08:759][862]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.02.08:778][862]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.08:786][862]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.02.08:786][862]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.02.08:790][862]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.08:919][863]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.02.09:003][867]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.02.09:023][868]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.02.09:149][875]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.02.09:226][879]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.02.09:261][881]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.02.09:382][887]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.02.09:406][888]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.02.09:623][898]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.02.09:686][901]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.02.09:759][905]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.02.09:817][907]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.09:884][909]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.02.09:884][909]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.02.09:950][913]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.02.10:109][920]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.02.10:109][920]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.02.10:214][925]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.02.10:269][928]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.02.10:351][932]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.02.10:497][940]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.02.10:600][945]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.02.10:689][950]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.02.10:703][951]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.02.10:811][957]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.02.10:901][962]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.02.10:918][963]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.02.10:977][966]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.11:003][966]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.02.11:006][966]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.11:017][966]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.11:114][967]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.02.11:114][967]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.02.11:158][969]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.02.11:179][970]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.02.11:283][975]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.02.11:313][975]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.02.11:425][981]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.02.11:447][982]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.02.11:668][991]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.02.11:668][991]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.02.11:811][998]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.02.12:231][ 22]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.08.08-18.02.12:232][ 22]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.02.12:232][ 22]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.02.14:094][130]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.14:122][130]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.02.14:122][130]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.02.14:122][130]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.02.14:122][130]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.02.14:296][140]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.02.14:316][141]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.02.14:375][144]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.02.14:375][144]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.02.14:638][156]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.02.14:657][157]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.02.14:712][160]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.02.16:012][237]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.16:012][237]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.16:012][237]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.16:026][237]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.16:026][237]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.16:026][237]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.16:029][237]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.16:030][237]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.16:030][237]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.16:037][237]MaterialEditorStats: Error: [SM5] Light function materials must be opaque.
+[2018.08.08-18.02.17:504][322]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.17:505][322]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.17:505][322]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.17:508][322]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.17:509][322]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.17:509][322]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.17:512][322]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.17:513][322]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.17:513][322]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.18:945][404]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.18:946][404]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.18:946][404]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.18:949][404]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.18:949][404]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.18:949][404]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.18:952][404]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.18:953][404]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.18:953][404]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.31:881][167]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.31:882][167]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.31:882][167]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.02.38:519][559]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.02.38:519][559]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.02.38:519][559]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.23:796][700]LogMaterialEditor: Saving and Compiling material fadingmaterial
+[2018.08.08-18.03.30:659][700]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.08.08-18.03.31:357][700]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.31:358][700]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.31:358][700]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.31:403][700]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.31:404][700]LogMaterial: Warning: C:\Users\mg-lenovo\Documents\GitHub\VogsAmIFree\Content\My_Bp\fadingmaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.31:404][700]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.31:414][700]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.31:415][700]LogMaterial: Warning: C:\Users\mg-lenovo\Documents\GitHub\VogsAmIFree\Content\My_Bp\fadingmaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.31:415][700]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.31:460][700]TextureStreamingBuild: Display: Compiling optional shaders took 0.032 seconds.
+[2018.08.08-18.03.31:637][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/fadingmaterial" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset" SILENT=true
+[2018.08.08-18.03.31:706][700]LogSavePackage: Save=57.36ms
+[2018.08.08-18.03.31:706][700]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/fadingmaterial4C002DF14FAB10380F08C69B4F0E6815.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset'
+[2018.08.08-18.03.31:716][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset
+[2018.08.08-18.03.36:987][ 11]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.36:988][ 11]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.36:988][ 11]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.38:401][ 95]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.38:455][ 95]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.03.38:455][ 95]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.03.38:455][ 95]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.03.38:455][ 95]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.03.38:458][ 95]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.38:473][ 95]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.39:059][120]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.03.39:189][124]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.03.39:247][127]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.03.39:283][129]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.03.39:303][130]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.03.39:383][134]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.03.39:542][141]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.03.39:542][141]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.03.39:802][153]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.03.39:899][158]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.03.39:915][159]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.03.40:024][164]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.40:231][172]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.03.40:373][180]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.03.40:446][184]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.03.40:487][186]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.03.40:561][190]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.03.40:701][197]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.03.40:754][200]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.03.40:830][204]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.03.40:987][212]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.03.41:179][222]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.03.41:196][223]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.03.41:444][236]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.03.41:657][247]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.03.41:692][249]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.03.41:781][254]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.42:125][271]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.03.42:182][274]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.03.42:200][275]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.03.42:501][290]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.03.42:749][302]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.03.42:813][305]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.03.42:830][306]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.03.43:708][354]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.43:726][354]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.43:726][354]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.03.43:726][354]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.03.43:726][354]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.03.43:761][354]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.43:774][354]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.43:933][357]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.43:967][358]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.03.44:019][360]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.03.44:041][361]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.03.44:155][366]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.03.44:178][367]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.03.44:318][373]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.03.44:360][375]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.03.44:635][386]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.44:643][386]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.44:643][386]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.03.44:744][390]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.03.44:870][396]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.03.44:870][396]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.03.44:995][402]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.03.45:123][408]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.03.45:300][416]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.03.45:946][451]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.45:947][451]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.45:947][451]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.45:982][451]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.45:983][451]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.45:983][451]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.45:986][451]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.45:987][451]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.45:987][451]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.45:992][451]MaterialEditorStats: Error: [SM5] Light function materials must be opaque.
+[2018.08.08-18.03.47:893][558]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.47:894][558]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.47:894][558]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.49:329][640]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.49:365][640]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.03.49:365][640]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.03.49:365][640]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.03.49:365][640]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.03.49:374][640]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.49:403][640]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.49:570][643]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.03.49:590][644]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.03.49:630][646]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.03.49:668][648]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.03.49:742][651]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.49:765][651]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.08-18.03.49:792][651]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.08-18.03.49:886][657]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.08-18.03.49:904][658]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.03.49:963][661]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.08-18.03.49:980][662]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.08-18.03.50:126][669]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.08-18.03.50:152][669]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.03.50:179][670]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.03.50:256][675]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.03.50:575][691]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.03.50:613][693]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.03.50:613][693]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.03.50:727][699]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.50:728][699]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.50:728][699]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2018.08.08-18.03.50:747][699]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.50:747][699]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.50:747][699]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2018.08.08-18.03.50:751][699]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.50:752][699]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.50:752][699]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2018.08.08-18.03.50:762][699]MaterialEditorStats: Error: [SM5] Volume materials must use an Additive blend mode.
+[2018.08.08-18.03.51:224][718]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.51:225][718]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.51:225][718]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2018.08.08-18.03.52:023][762]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.52:043][762]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.03.52:043][762]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.03.52:043][762]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.03.52:043][762]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.52:045][762]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.52:065][762]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.52:229][765]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.03.52:252][766]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.03.52:293][768]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.03.52:312][769]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.52:419][774]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.03.52:443][775]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.03.52:540][780]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.03.52:594][780]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.52:605][780]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.03.52:746][785]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.03.52:775][786]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.03.52:813][788]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.52:935][794]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.03.53:032][799]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.03.53:049][800]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.03.53:325][814]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.03.53:386][817]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.03.53:474][822]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.03.53:558][826]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.03.53:611][828]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.53:654][828]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.03.53:654][828]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.03.53:657][828]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.53:668][828]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.53:751][829]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.03.53:840][832]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.03.53:860][833]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.03.53:890][833]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.03.53:899][833]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.03.54:057][841]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.03.54:111][844]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.03.54:151][846]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.03.54:302][853]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.03.54:463][861]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.54:521][864]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.03.54:540][865]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.03.54:598][867]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.54:683][870]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.08-18.03.54:738][873]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.03.54:758][874]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.03.54:887][880]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.03.54:942][883]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.03.55:010][887]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.03.55:068][890]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.03.55:136][894]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.08-18.03.55:338][904]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.08-18.03.55:410][908]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.03.55:479][912]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.03.55:549][916]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.03.55:617][920]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.03.55:708][924]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.03.55:759][927]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.03.55:828][931]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.03.55:918][936]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.03.56:093][946]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.56:094][946]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.56:094][946]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.56:107][946]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.56:108][946]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.56:108][946]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.56:111][946]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.03.56:111][946]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.03.56:111][946]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.03.56:116][946]MaterialEditorStats: Error: [SM5] Light function materials must be opaque.
+[2018.08.08-18.04.09:546][258]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.04.09:547][258]LogMaterial: Warning: /Engine/Transient.fadingmaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-18.04.09:547][258]LogMaterial: 	Light function materials must be opaque.
+[2018.08.08-18.04.10:242][297]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.04.10:259][297]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.04.10:259][297]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.04.10:259][297]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.04.10:259][297]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.04.10:277][297]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.04.10:290][297]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.04.10:443][300]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.04.10:458][301]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.04.10:501][302]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.04.10:511][302]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.04.10:633][304]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.04.10:652][305]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.04.10:736][308]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.04.10:756][309]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.04.11:738][343]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.08.08-18.04.11:738][343]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.04.11:738][343]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.04.30:700][823]LogMaterialEditor: Saving and Compiling material fadingmaterial
+[2018.08.08-18.04.31:503][823]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.04.31:524][823]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.04.31:524][823]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.04.31:524][823]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.04.31:524][823]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.04.31:550][823]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.04.31:564][823]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.04.31:590][823]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fadingmaterial, compiling. 
+[2018.08.08-18.04.32:584][823]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.04.32:584][823]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.04.32:584][823]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.04.32:584][823]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.04.32:584][823]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.04.32:584][823]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.04.32:584][823]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.04.32:591][823]TextureStreamingBuild: Display: Compiling optional shaders took 1.006 seconds.
+[2018.08.08-18.04.34:504][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/fadingmaterial" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset" SILENT=true
+[2018.08.08-18.04.34:528][823]LogSavePackage: Save=19.10ms
+[2018.08.08-18.04.34:528][823]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/fadingmaterialB00621A3490443E2444E89911AC7524C.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset'
+[2018.08.08-18.04.34:531][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset
+[2018.08.08-18.04.35:836][900]LogMaterialEditor: Saving and Compiling material fadingmaterial
+[2018.08.08-18.04.35:857][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/fadingmaterial" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset" SILENT=true
+[2018.08.08-18.04.35:869][900]LogSavePackage: Save=7.57ms
+[2018.08.08-18.04.35:869][900]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/fadingmaterial141B34894ADA1B0D6A1FAD8783784437.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset'
+[2018.08.08-18.04.35:870][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset
+[2018.08.08-18.04.40:751][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca2899200, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.08-18.04.40:832][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca2899200, Size=64
+[2018.08.08-18.04.40:832][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca27d2f80, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.08-18.04.40:902][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca27694e0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.08-18.04.41:621][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca2733dc0, Size=192, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.08-18.04.41:638][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca2733dc0, Size=192
+[2018.08.08-18.04.41:638][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca2733dc0, Size=192, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_9:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.08-18.04.41:663][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca2731300, Size=192, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.08-18.04.41:670][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca26c7640, Size=16, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.08-18.04.41:673][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca26c7640, Size=16
+[2018.08.08-18.04.41:673][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca26c7640, Size=16, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_11:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.08-18.04.41:675][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca26c7600, Size=16, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.08-18.04.41:957][172]LogSkeletalMesh: Skeletal Mesh found in DDC [37.354240ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.08.08-18.04.42:813][187]LogRenderer: Reallocating scene render targets to support 876x484 Format 10 NumSamples 1 (Frame:6701).
+[2018.08.08-18.04.50:233][618]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.08-18.04.50:257][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.04.50:257][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.08-18.04.50:324][618]PIE: New page: PIE session: Tech_demo (9 Ağu 2018 00:04:50)
+[2018.08.08-18.04.50:324][618]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.08-18.04.50:341][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017253s)
+[2018.08.08-18.04.50:342][618]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.08-18.04.50:348][618]LogPlayLevel: PIE: World Init took: (0.006806s)
+[2018.08.08-18.04.50:348][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.024302s)
+[2018.08.08-18.04.50:362][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca27d2f80, Size=64
+[2018.08.08-18.04.50:362][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca2733dc0, Size=192
+[2018.08.08-18.04.50:362][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca26c7640, Size=16
+[2018.08.08-18.04.50:375][618]LogInit: XAudio2 using 'Hoparlör (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.08-18.04.50:392][618]LogInit: FAudioDevice initialized.
+[2018.08.08-18.04.50:499][618]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.08-18.04.50:520][618]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.08-21.04.50
+[2018.08.08-18.04.50:520][618]LogWorld: Bringing up level for play took: 0.004225
+[2018.08.08-18.04.50:547][618]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.08.08-18.04.50:718][618]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,526
+[2018.08.08-18.04.50:719][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.04.50:753][618]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.08.08-18.05.00:709][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.05.00:773][206]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.08-18.05.00:855][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.05.22:147][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tavan)
+[2018.08.08-18.05.23:895][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.05.30:151][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.05.30:250][631]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.08-18.05.30:273][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.05.30:273][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.08-18.05.30:273][631]PIE: New page: PIE session: Tech_demo (9 Ağu 2018 00:05:30)
+[2018.08.08-18.05.30:273][631]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.08-18.05.30:281][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007942s)
+[2018.08.08-18.05.30:282][631]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.08-18.05.30:283][631]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2018.08.08-18.05.30:283][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009153s)
+[2018.08.08-18.05.30:299][631]LogInit: XAudio2 using 'Hoparlör (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.08-18.05.30:316][631]LogInit: FAudioDevice initialized.
+[2018.08.08-18.05.30:406][631]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.08-18.05.30:411][631]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.08-21.05.30
+[2018.08.08-18.05.30:412][631]LogWorld: Bringing up level for play took: 0.004375
+[2018.08.08-18.05.30:420][631]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,228
+[2018.08.08-18.05.30:452][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.05.36:940][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.05.36:964][ 17]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.08-18.05.36:996][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.05.53:900][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.06.11:649][341]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.11:672][342]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.06.11:672][342]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.06.11:672][342]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.06.11:672][342]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.06.12:331][374]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.06.12:375][376]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.06.12:440][379]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.06.12:459][380]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.06.15:011][514]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.15:085][514]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.15:202][515]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.06.15:202][515]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.06.15:202][515]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.06.15:202][515]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.06.15:339][521]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.06.15:356][522]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.06.15:397][524]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.06.15:416][525]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.06.16:219][567]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.08.08-18.06.16:219][567]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.06.16:219][567]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.06.17:613][650]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.17:620][650]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.06.17:620][650]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.06.17:620][650]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.06.17:620][650]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.06.17:838][660]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.06.17:903][663]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.06.17:922][664]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.06.17:983][667]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.06.19:285][739]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.08.08-18.06.19:285][739]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.06.19:285][739]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.06.22:581][931]LogMaterialEditor: Applying material fadingmaterial
+[2018.08.08-18.06.23:283][931]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.23:303][931]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.06.23:303][931]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.06.23:303][931]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.06.23:303][931]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.06.23:373][931]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.23:392][931]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.23:435][931]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy fadingmaterial, compiling. 
+[2018.08.08-18.06.23:963][931]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.08-18.06.23:963][931]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.06.23:963][931]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.06.23:963][931]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.06.23:963][931]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.06.23:963][931]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.06.23:963][931]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.06.23:967][931]TextureStreamingBuild: Display: Compiling optional shaders took 0.552 seconds.
+[2018.08.08-18.06.24:970][984]LogMaterialEditor: Saving and Compiling material fadingmaterial
+[2018.08.08-18.06.25:900][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/fadingmaterial" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset" SILENT=true
+[2018.08.08-18.06.25:924][984]LogSavePackage: Save=19.42ms
+[2018.08.08-18.06.25:924][984]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/fadingmaterialE63B6A31465913B17041E28685FFBCCF.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset'
+[2018.08.08-18.06.25:927][984]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset
+[2018.08.08-18.06.25:938][984]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.08.08-18.06.25:938][984]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.06.25:938][984]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.06.43:179][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.06.43:834][ 39]LogMaterial: Warning: Material /Game/My_Bp/fadingmaterial.fadingmaterial needed to have new flag set bUsedWithStaticLighting !
+[2018.08.08-18.06.43:834][ 39]LogMaterial: Warning: Material /Engine/Transient.fadingmaterial needed to have new flag set bUsedWithStaticLighting !
+[2018.08.08-18.06.43:836][ 39]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.43:887][ 39]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.06.43:888][ 39]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.06.43:888][ 39]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.06.43:888][ 39]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.06.43:888][ 39]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.44:036][ 42]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.08-18.06.44:050][ 43]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.08-18.06.44:082][ 44]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.08-18.06.44:092][ 45]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.08-18.06.44:415][ 64]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.06.44:431][ 65]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.06.45:973][157]Cmd: TRANSACTION UNDO
+[2018.08.08-18.06.45:973][157]LogEditorTransaction: Undo Create Actors
+[2018.08.08-18.06.46:087][157]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.46:095][157]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.06.46:095][157]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.06.46:095][157]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.06.46:283][160]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.06.46:291][160]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.06.46:369][161]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.06.46:516][168]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.06.46:599][173]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.06.47:217][208]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.08.08-18.06.47:217][208]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.06.47:217][208]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.06.47:875][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.08-18.06.50:929][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.08-18.06.52:865][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.06.55:463][684]Cmd: TRANSACTION UNDO
+[2018.08.08-18.06.55:463][684]LogEditorTransaction: Undo Create Actors
+[2018.08.08-18.06.55:466][684]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.55:493][685]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.06.55:493][685]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.06.55:493][685]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.06.55:493][685]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.06.55:671][693]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.06.55:692][695]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.06.55:745][697]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.06.55:745][697]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.06.56:565][744]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.08.08-18.06.56:565][744]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.06.56:565][744]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.06.56:786][757]Cmd: TRANSACTION UNDO
+[2018.08.08-18.06.56:786][757]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.08-18.06.56:805][757]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.06.56:823][757]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.06.56:823][757]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.06.56:823][757]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.06.56:823][757]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.06.57:032][769]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.06.57:062][771]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.06.57:097][773]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.06.57:115][774]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.06.57:888][820]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.08.08-18.06.57:888][820]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.06.57:888][820]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.06.59:024][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.08-18.07.00:712][988]Cmd: DELETE
+[2018.08.08-18.07.00:712][988]Cmd: ACTOR DELETE
+[2018.08.08-18.07.00:799][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.08-18.07.00:812][988]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.08.08-18.07.01:933][ 51]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.01:933][ 51]LogEditorTransaction: Undo Delete Actors
+[2018.08.08-18.07.02:002][ 51]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.02:008][ 51]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.02:008][ 51]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.02:008][ 51]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.02:008][ 51]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.02:195][ 54]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.02:205][ 54]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.02:270][ 55]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.02:270][ 55]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.02:801][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.08-18.07.03:038][ 97]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.08.08-18.07.03:038][ 97]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.07.03:038][ 97]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.07.03:408][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.08-18.07.04:027][155]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.04:027][155]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.08-18.07.04:136][155]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.04:149][155]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.04:149][155]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.04:149][155]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.04:149][155]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.04:343][162]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.04:372][164]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.04:407][166]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.04:441][168]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.04:650][180]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.04:650][180]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.08-18.07.04:702][180]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.04:731][181]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.04:731][181]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.04:777][184]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.04:912][192]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.04:945][194]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.05:012][198]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.05:143][205]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.05:143][205]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.05:143][205]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.08-18.07.05:147][205]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.05:277][211]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.05:324][214]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.05:410][219]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.05:493][224]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.05:559][228]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.05:580][229]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.05:580][229]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.08-18.07.05:583][229]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.05:653][232]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.05:738][237]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.05:873][245]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.05:938][249]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.05:955][250]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.06:055][256]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.06:106][259]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.06:174][263]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.06:839][302]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.08.08-18.07.06:839][302]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.07.06:839][302]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.07.06:939][308]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.06:939][308]LogEditorTransaction: Undo Move Node
+[2018.08.08-18.07.06:942][308]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.06:965][309]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.06:965][309]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.06:965][309]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.06:965][309]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.07:147][320]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.07:179][322]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.07:230][325]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.07:245][326]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.07:350][332]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.07:350][332]LogEditorTransaction: Undo Move Node
+[2018.08.08-18.07.07:355][332]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.07:521][341]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.07:572][344]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.07:572][344]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.07:712][352]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.07:712][352]LogEditorTransaction: Undo Move Node
+[2018.08.08-18.07.07:716][352]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.07:725][352]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.07:756][354]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.07:807][357]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.07:926][364]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.07:973][367]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.08:045][371]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.08:045][371]LogEditorTransaction: Undo Create Pin Link
+[2018.08.08-18.07.08:080][371]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.08:089][371]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.08:091][371]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.08:119][372]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.08:172][375]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.08:335][384]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.08:335][384]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.08:349][385]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.08:383][387]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.08:387][387]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.08:387][387]LogEditorTransaction: Undo Material Editor: New Expression
+[2018.08.08-18.07.08:390][387]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.08:403][387]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.08:580][396]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.08:598][397]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.08:667][401]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.08:667][401]LogEditorTransaction: Undo Create Pin Link
+[2018.08.08-18.07.08:670][401]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.08:682][401]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.08:728][402]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.08:755][404]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.08:787][406]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.08:802][407]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.08:935][415]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.08:970][417]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.09:054][422]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.09:068][423]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.09:124][426]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.09:125][426]LogEditorTransaction: Undo Create Actors
+[2018.08.08-18.07.09:128][426]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.09:322][436]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.09:356][438]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.09:405][441]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.09:521][448]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.09:573][451]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.09:639][455]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.09:755][462]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.09:939][473]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.10:476][505]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.08.08-18.07.10:476][505]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.07.10:476][505]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.07.11:528][568]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.11:528][568]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.08-18.07.11:531][568]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.11:547][568]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.11:547][568]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.11:547][568]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.11:547][568]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.11:758][581]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.11:759][581]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.11:809][584]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.11:825][585]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.12:531][627]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.08.08-18.07.12:532][627]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.07.12:532][627]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.07.13:650][694]Cmd: TRANSACTION REDO
+[2018.08.08-18.07.13:650][694]LogEditorTransaction: Redo Clicking on Actors
+[2018.08.08-18.07.13:695][694]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.13:716][695]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.13:716][695]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.13:716][695]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.13:716][695]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.13:918][707]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.13:918][707]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.13:969][710]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.13:985][711]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.13:991][711]Cmd: TRANSACTION REDO
+[2018.08.08-18.07.13:991][711]LogEditorTransaction: Redo Create Actors
+[2018.08.08-18.07.13:996][711]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.14:305][728]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.14:319][729]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.14:338][730]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.14:504][740]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.14:517][741]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.14:586][745]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.14:738][754]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.14:887][763]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.15:459][797]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.08.08-18.07.15:459][797]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.07.15:459][797]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.07.15:526][801]Cmd: TRANSACTION UNDO
+[2018.08.08-18.07.15:526][801]LogEditorTransaction: Undo Create Actors
+[2018.08.08-18.07.15:530][801]LogMaterial: Missing cached shader map for material fadingmaterial, compiling. 
+[2018.08.08-18.07.15:550][802]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.08-18.07.15:550][802]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.08-18.07.15:550][802]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.08-18.07.15:550][802]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.08-18.07.15:741][813]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.08-18.07.15:755][814]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.08-18.07.15:805][817]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.08-18.07.15:822][818]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.07.16:498][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.07.16:606][863]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.08.08-18.07.16:606][863]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.08.08-18.07.16:606][863]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.08-18.07.32:421][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.07.32:487][769]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.08-18.07.32:511][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.07.32:511][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.08-18.07.32:511][769]PIE: New page: PIE session: Tech_demo (9 Ağu 2018 00:07:32)
+[2018.08.08-18.07.32:511][769]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.08-18.07.32:520][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008723s)
+[2018.08.08-18.07.32:521][769]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.08-18.07.32:521][769]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2018.08.08-18.07.32:522][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010138s)
+[2018.08.08-18.07.32:538][769]LogInit: XAudio2 using 'Hoparlör (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.08-18.07.32:555][769]LogInit: FAudioDevice initialized.
+[2018.08.08-18.07.32:649][769]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.08-18.07.32:654][769]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.08-21.07.32
+[2018.08.08-18.07.32:655][769]LogWorld: Bringing up level for play took: 0.005283
+[2018.08.08-18.07.32:667][769]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,475
+[2018.08.08-18.07.32:667][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.07.37:487][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.07.37:512][ 55]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.08-18.07.37:550][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.07.49:207][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.08.11:796][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.09.08:441][431]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.08.08-18.09.09:609][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.09.24:667][349]LogEditorActor: Deleted Actor: TriggerBox
+[2018.08.08-18.09.24:680][349]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.08.08-18.09.28:978][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.09.32:584][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.10.11:823][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.10.39:776][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.10.52:522][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.11.09:937][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-18.11.31:934][838]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.08.08-18.11.32:450][838]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd06ff1df8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.08-18.11.32:451][838]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd06ff1df0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.08-18.12.03:012][508]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd16bb5f60, Size=4, Default__SKEL_Tech_demo_C Function /Game/map/Maps/Tech_demo.SKEL_Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.12.12:897][ 80]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd16bb5f60, Size=4
+[2018.08.08-18.12.12:897][ 80]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd151ff568, Size=4, Default__SKEL_Tech_demo_C Function /Engine/Transient.REINST_SKEL_Tech_demo_C_27:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.12.12:898][ 80]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd151ff4f0, Size=4, Default__SKEL_Tech_demo_C Function /Game/map/Maps/Tech_demo.SKEL_Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.12.59:188][724]LogSlate: Window 'Tech_demo* - Level Blueprint Editor' being destroyed
+[2018.08.08-18.13.09:127][302]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd151ff4f0, Size=4
+[2018.08.08-18.13.09:127][302]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fc9342e000, Size=4, Default__SKEL_Tech_demo_C Function /Engine/Transient.REINST_SKEL_Tech_demo_C_29:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.13.09:129][302]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fc9342df88, Size=4, Default__SKEL_Tech_demo_C Function /Game/map/Maps/Tech_demo.SKEL_Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.13.32:906][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fc9342df88, Size=4
+[2018.08.08-18.13.32:906][706]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd14c95aa8, Size=4, Default__SKEL_Tech_demo_C Function /Engine/Transient.REINST_SKEL_Tech_demo_C_31:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.13.32:907][706]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd14c97508, Size=4, Default__SKEL_Tech_demo_C Function /Game/map/Maps/Tech_demo.SKEL_Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.13.39:016][ 71]BlueprintLog: New page: Compile Tech_demo
+[2018.08.08-18.13.39:020][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd14c97508, Size=4
+[2018.08.08-18.13.39:020][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd1588ff28, Size=4, Default__SKEL_Tech_demo_C Function /Engine/Transient.REINST_SKEL_Tech_demo_C_33:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.13.39:023][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcdbf8cc20, Size=16
+[2018.08.08-18.13.39:023][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd137da080, Size=16, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_35:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.13.39:025][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd15561fc0, Size=48, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.13.39:313][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd151ff568, Size=4
+[2018.08.08-18.13.39:313][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fc9342e000, Size=4
+[2018.08.08-18.13.39:313][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd14c95aa8, Size=4
+[2018.08.08-18.13.39:313][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd1588ff28, Size=4
+[2018.08.08-18.13.41:113][178]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.08-18.13.41:138][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.13.41:138][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.08-18.13.41:138][178]PIE: New page: PIE session: Tech_demo (9 Ağu 2018 00:13:41)
+[2018.08.08-18.13.41:138][178]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.08-18.13.41:147][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008291s)
+[2018.08.08-18.13.41:148][178]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.08-18.13.41:148][178]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2018.08.08-18.13.41:148][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009610s)
+[2018.08.08-18.13.41:170][178]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd137da080, Size=16
+[2018.08.08-18.13.41:175][178]LogInit: XAudio2 using 'Hoparlör (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.08-18.13.41:192][178]LogInit: FAudioDevice initialized.
+[2018.08.08-18.13.41:276][178]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.08-18.13.41:281][178]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.08-21.13.41
+[2018.08.08-18.13.41:318][178]LogWorld: Bringing up level for play took: 0.041044
+[2018.08.08-18.13.41:325][178]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 1,133
+[2018.08.08-18.13.41:326][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.13.46:900][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.13.46:926][502]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.08-18.13.46:965][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.13.56:344][  8]LogMaterial: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2018.08.08-18.13.56:513][  8]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.08.08-18.13.56:513][  8]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.08-18.13.56:513][  8]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.08-18.13.56:513][  8]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.08-18.13.59:599][178]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.08-18.14.00:190][209]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.08-18.14.01:036][251]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.08-18.14.01:530][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.08-18.14.01:577][271]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd15561fc0, Size=48
+[2018.08.08-18.14.01:578][271]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd151c4970, Size=48, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_39:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.14.01:581][271]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd15009b40, Size=48, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.14.01:886][271]LogSavePackage: Save=317.00ms
+[2018.08.08-18.14.01:886][271]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demoD03FDFCB44CA5C67CCC363B4E0AB704D.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.08-18.14.01:892][271]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.08-18.14.01:950][271]LogFileHelpers: Saving map 'Tech_demo' took 0.544
+[2018.08.08-18.14.01:956][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/fadingmaterial" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset" SILENT=true
+[2018.08.08-18.14.01:979][271]LogSavePackage: Save=9.06ms
+[2018.08.08-18.14.01:979][271]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/fadingmaterial0DB4EE2A4D7C116EE7EE709963CF4FCD.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset'
+[2018.08.08-18.14.01:983][271]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/fadingmaterial.uasset
+[2018.08.08-18.14.02:433][291]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.08-18.14.02:464][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.14.02:465][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.08-18.14.02:465][291]PIE: New page: PIE session: Tech_demo (9 Ağu 2018 00:14:02)
+[2018.08.08-18.14.02:465][291]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.08-18.14.02:477][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011675s)
+[2018.08.08-18.14.02:477][291]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.08-18.14.02:478][291]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2018.08.08-18.14.02:478][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.013037s)
+[2018.08.08-18.14.02:506][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd151c4970, Size=48
+[2018.08.08-18.14.02:515][291]LogInit: XAudio2 using 'Hoparlör (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.08-18.14.02:538][291]LogInit: FAudioDevice initialized.
+[2018.08.08-18.14.02:640][291]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.08-18.14.02:648][291]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.08-21.14.02
+[2018.08.08-18.14.02:649][291]LogWorld: Bringing up level for play took: 0.008202
+[2018.08.08-18.14.02:660][291]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,467
+[2018.08.08-18.14.02:660][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.14.16:046][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.14.16:071][ 90]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.08-18.14.16:110][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.14.22:296][450]BlueprintLog: New page: Compile Tech_demo
+[2018.08.08-18.14.22:302][450]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd15009b40, Size=48
+[2018.08.08-18.14.22:302][450]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd156885e0, Size=48, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_43:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.14.22:304][450]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd1568b010, Size=48, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.14.24:101][550]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.08-18.14.24:124][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.14.24:125][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.08-18.14.24:125][550]PIE: New page: PIE session: Tech_demo (9 Ağu 2018 00:14:24)
+[2018.08.08-18.14.24:125][550]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.08-18.14.24:133][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008428s)
+[2018.08.08-18.14.24:134][550]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.08-18.14.24:134][550]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2018.08.08-18.14.24:134][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009641s)
+[2018.08.08-18.14.24:156][550]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd156885e0, Size=48
+[2018.08.08-18.14.24:161][550]LogInit: XAudio2 using 'Hoparlör (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.08-18.14.24:177][550]LogInit: FAudioDevice initialized.
+[2018.08.08-18.14.24:268][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.08-18.14.24:273][550]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.08-21.14.24
+[2018.08.08-18.14.24:273][550]LogWorld: Bringing up level for play took: 0.004262
+[2018.08.08-18.14.24:281][550]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,088
+[2018.08.08-18.14.24:281][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.14.44:199][738]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.14.44:226][738]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.08-18.14.44:262][738]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.08-18.14.51:511][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.08-18.14.51:544][156]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd1568b010, Size=48
+[2018.08.08-18.14.51:544][156]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd15560b20, Size=48, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_47:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.14.51:546][156]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd155632e0, Size=48, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.08-18.14.51:809][156]LogSavePackage: Save=271.60ms
+[2018.08.08-18.14.51:809][156]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo4CB66F1B41A27180ED3E5E8C90DAF134.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.08-18.14.51:812][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.08-18.14.51:860][156]LogFileHelpers: Saving map 'Tech_demo' took 0.451
+[2018.08.08-18.16.09:046][719]SourceControl: Source control is disabled
+[2018.08.08-18.16.09:046][719]LogSlate: Window 'Source Control Login' being destroyed
