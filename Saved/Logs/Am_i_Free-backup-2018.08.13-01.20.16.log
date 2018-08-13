@@ -1,0 +1,847 @@
+﻿Log file open, 08/11/18 22:14:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Am_i_Free
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(924023145) SRandInit(924023145).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.325925
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.883s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-28I2SJ6 (192.168.0.18:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.11-19.14.23:859][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.11-19.14.23:859][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.11-19.14.23:929][  0]LogInit: Computer: DESKTOP-28I2SJ6
+[2018.08.11-19.14.23:929][  0]LogInit: User: mglenovo
+[2018.08.11-19.14.23:929][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.11-19.14.23:929][  0]LogInit: High frequency timer resolution =2.435761 MHz
+[2018.08.11-19.14.23:930][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.11-19.14.23:930][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.11-19.14.23:930][  0]LogMemory: Process Physical Memory: 275.61 MB used, 275.61 MB peak
+[2018.08.11-19.14.23:930][  0]LogMemory: Process Virtual Memory: 272.87 MB used, 272.87 MB peak
+[2018.08.11-19.14.23:930][  0]LogMemory: Physical Memory: 6515.01 MB used,  9781.26 MB free, 16296.27 MB total
+[2018.08.11-19.14.23:930][  0]LogMemory: Virtual Memory: 4802.15 MB used,  9781.26 MB free, 134217728.00 MB total
+[2018.08.11-19.14.23:949][  0]LogInit: Using OS detected language (tr-TR).
+[2018.08.11-19.14.23:949][  0]LogInit: Using OS detected locale (tr-TR).
+[2018.08.11-19.14.24:111][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2018.08.11-19.14.24:778][  0]LogStreaming: Display: Took  0.829s to EndInitTextLocalization.
+[2018.08.11-19.14.24:779][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.11-19.14.25:040][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.11-19.14.25:040][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.11-19.14.34:130][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.11-19.14.34:930][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2018.08.11-19.14.34:930][  0]LogD3D11RHI:       4064/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.11-19.14.34:942][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.08.11-19.14.34:942][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.11-19.14.34:944][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.11-19.14.34:944][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.11-19.14.34:944][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.11-19.14.34:961][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.11-19.14.34:961][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.11-19.14.34:961][  0]LogWindows: EnumDisplayDevices:
+[2018.08.11-19.14.34:962][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.08.11-19.14.34:962][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.11-19.14.34:962][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.11-19.14.34:962][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.11-19.14.34:962][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2018.08.11-19.14.34:962][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.11-19.14.34:962][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.11-19.14.34:962][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2018.08.11-19.14.34:984][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.08.11-19.14.34:984][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.11-19.14.34:984][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.11-19.14.34:996][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.11-19.14.34:997][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Intermediate/Shaders/WorkingDirectory/12684/).
+[2018.08.11-19.14.34:997][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mg-lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/24EB37884DC1E8543AA232BAD9B52694/'.
+[2018.08.11-19.14.35:353][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.11-19.14.35:371][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.11-19.14.35:389][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.11-19.14.35:407][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.11-19.14.35:440][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.11-19.14.35:458][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.11-19.14.35:476][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.11-19.14.35:495][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.11-19.14.35:504][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.11-19.14.35:520][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.11-19.14.35:536][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.11-19.14.35:552][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.11-19.14.35:568][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.11-19.14.35:586][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.11-19.14.35:602][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.11-19.14.35:634][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.11-19.14.35:634][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.11-19.14.35:671][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.11-19.14.35:673][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.11-19.14.35:745][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.11-19.14.35:761][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.11-19.14.35:778][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.11-19.14.35:797][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.11-19.14.35:814][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.11-19.14.35:839][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.11-19.14.35:839][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.11-19.14.36:069][  0]LogXGEController: Cleaning working directory: C:/Users/mg-lenovo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.11-19.14.36:069][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.11-19.14.36:069][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.11-19.14.36:069][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.11-19.14.42:329][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.11-19.14.42:417][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.11-19.14.42:417][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.11-19.14.42:417][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.11-19.14.42:417][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.11-19.14.42:417][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.11-19.14.42:417][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.11-19.14.42:439][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.11-19.14.42:451][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mg-lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.11-19.14.42:451][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.11-19.14.42:451][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.11-19.14.42:466][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.11-19.14.42:466][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.11-19.14.42:534][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.11-19.14.42:535][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.11-19.14.45:085][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.08.11-19.14.45:505][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.11-19.14.45:841][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.11-19.14.45:845][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.11-19.14.45:845][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.11-19.14.45:845][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.11-19.14.45:845][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.11-19.14.45:845][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.11-19.14.45:914][  0]LogNetVersion: Am_i_Free , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3243282978)
+[2018.08.11-19.14.46:947][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.059176 seconds
+[2018.08.11-19.14.46:953][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.11-19.14.46:953][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.08.11-19.14.46:953][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.11-19.15.47:316][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.11-19.15.47:351][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.11-19.15.48:873][  0]SourceControl: Source control is disabled
+[2018.08.11-19.15.48:873][  0]SourceControl: Source control is disabled
+[2018.08.11-19.15.48:896][  0]SourceControl: Source control is disabled
+[2018.08.11-19.15.48:922][  0]SourceControl: Source control is disabled
+[2018.08.11-19.15.49:659][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.11-19.15.49:861][  0]LogOcInput: OculusInput pre-init called
+[2018.08.11-19.15.50:162][  0]LogEngine: Initializing Engine...
+[2018.08.11-19.15.50:163][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.11-19.15.50:165][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.11-19.15.50:165][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.11-19.15.50:437][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.11-19.15.50:462][  0]LogInit: XAudio2 using 'Hoparlör (2- C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-19.15.50:477][  0]LogInit: FAudioDevice initialized.
+[2018.08.11-19.15.51:421][  0]LogDerivedDataCache: Saved boot cache 0.94s 74MB C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.11-19.15.51:456][  0]LogInit: Texture streaming: Enabled
+[2018.08.11-19.15.51:503][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.11-19.15.51:520][  0]LogInit: Transaction tracking system initialized
+[2018.08.11-19.15.51:552][  0]BlueprintLog: New page: Editor Load
+[2018.08.11-19.15.51:760][  0]LocalizationService: Localization service is disabled
+[2018.08.11-19.15.52:024][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002011aa695a0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.08.11-19.15.52:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002011aa695a0, Size=88
+[2018.08.11-19.15.52:027][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002011aa695a0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_3:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.08.11-19.15.52:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002017f587b00, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.08.11-19.15.52:252][  0]LogConsoleResponse: Display: 
+[2018.08.11-19.15.52:488][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.11-19.15.52:488][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.11-19.15.52:488][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.11-19.15.52:488][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.11-19.15.52:488][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.11-19.15.52:664][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/' took 0.02s
+[2018.08.11-19.15.55:007][  0]SourceControl: Source control is disabled
+[2018.08.11-19.15.55:008][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.11-19.15.55:014][  0]LightingResults: New page: Lighting Build
+[2018.08.11-19.15.55:019][  0]MapCheck: New page: Map Check
+[2018.08.11-19.15.55:019][  0]LightingResults: New page: Lighting Build
+[2018.08.11-19.15.55:040][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002011aa695a0, Size=88
+[2018.08.11-19.15.55:993][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201275a8900, Size=152, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.15.55:997][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201275a8900, Size=152
+[2018.08.11-19.15.55:997][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002012754ade0, Size=152, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_7:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.15.56:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020127549940, Size=152, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.16.04:462][  0]LogStaticMesh: Building static mesh Mesh_drone...
+[2018.08.11-19.16.05:123][  0]LogStaticMesh: Built static mesh [0.67s] /Game/meshes/Mesh_drone.Mesh_drone
+[2018.08.11-19.16.06:812][  0]LogMaterial: Missing cached shader map for material drone_base, compiling. 
+[2018.08.11-19.16.07:652][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.11-19.16.07:652][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.11-19.16.07:652][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.11-19.16.09:128][  0]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.11-19.16.09:150][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.11-19.16.09:172][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002012754ade0, Size=152
+[2018.08.11-19.16.09:173][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.11-19.16.09:281][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108,273ms to complete.
+[2018.08.11-19.16.09:282][  0]LogFileHelpers: Loading map 'Tech_demo' took 14.274
+[2018.08.11-19.16.09:883][  0]LogCollectionManager: Loaded 0 collections in 0.002553 seconds
+[2018.08.11-19.16.09:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Collections/' took 0.01s
+[2018.08.11-19.16.09:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/Developers/mglenovo/Collections/' took 0.01s
+[2018.08.11-19.16.09:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/Collections/' took 0.01s
+[2018.08.11-19.16.09:928][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.11-19.16.09:943][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2452 classes and 558 folders.
+[2018.08.11-19.16.09:954][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.11-19.16.12:462][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.11-19.16.12:470][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.08.11-19.16.12:677][  0]LogSlate: Took 0.100897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.11-19.16.12:714][  0]LogSlate: Took 0.034482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.11-19.16.12:747][  0]LogSlate: Took 0.025742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.11-19.16.13:029][  0]LogRenderer: Reallocating scene render targets to support 612x468 Format 10 NumSamples 1 (Frame:1).
+[2018.08.11-19.16.13:290][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.11-19.16.13:290][  0]LogLoad: (Engine Initialization) Total time: 117.16 seconds
+[2018.08.11-19.16.13:290][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.11-19.16.13:650][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.11-19.16.13:841][  0]LogSlate: Took 0.136857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.11-19.16.14:673][  3]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.11-19.16.20:034][ 19]LogAssetRegistry: Asset discovery search completed in 94.9718 seconds
+[2018.08.11-19.16.20:038][ 19]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.11-19.16.20:038][ 19]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000126 seconds (updated 0 objects)
+[2018.08.11-19.19.50:865][367]LogEditorViewport: Clicking Background
+[2018.08.11-19.20.07:079][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.20.09:446][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.20.20:565][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.20.30:677][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.20.30:845][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.20.30:887][751]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020127549940, Size=152
+[2018.08.11-19.20.30:887][751]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020144bb3ce0, Size=152, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_11:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.20.30:891][751]LogUObjectGlobals: Created PersistentFrame Addr=0x000002012754b740, Size=152, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.20.31:147][751]LogSavePackage: Save=270.27ms
+[2018.08.11-19.20.31:147][751]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demoCFD8A67F4D0708113A4330878C5276D9.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.20.31:154][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.20.31:242][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo_BuiltData" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset" SILENT=true
+[2018.08.11-19.20.31:594][751]LogSavePackage: Save=328.78ms
+[2018.08.11-19.20.31:594][751]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo_BuiltDataFF027B09444E49F48CD943AAC556EF4A.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset'
+[2018.08.11-19.20.31:596][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset
+[2018.08.11-19.20.40:207][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.20.46:492][468]LogSlate: Window 'Message' being destroyed
+[2018.08.11-19.20.46:497][468]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.11-19.20.46:498][468]LogEditorActor: Deleted Actor: TriggerBox
+[2018.08.11-19.20.46:512][468]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020144bb3ce0, Size=152
+[2018.08.11-19.20.46:513][468]LogEditorActor: Deleted 2 Actors (2.510 secs)
+[2018.08.11-19.20.57:675][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.11-19.21.11:026][743]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.11-19.21.34:378][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.21.34:516][114]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020144c89f30, Size=40, Default__BP_Hidable_Master_C Function /Game/My_Bp/BP_Hidable_Master.BP_Hidable_Master_C:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.21.34:524][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020144c89f30, Size=40
+[2018.08.11-19.21.34:524][114]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020144c89f30, Size=40, Default__BP_Hidable_Master_C Function /Engine/Transient.REINST_BP_Hidable_Master_C_13:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.21.34:538][114]LogBlueprint: Error: [Compiler BP_Hidable_Master] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.08.11-19.21.34:538][114]LogBlueprint: Error: [Compiler BP_Hidable_Master] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.08.11-19.21.34:539][114]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020144c8a660, Size=40, Default__BP_Hidable_Master_C Function /Game/My_Bp/BP_Hidable_Master.BP_Hidable_Master_C:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.21.34:540][114]LogBlueprint: Warning: [Compiler BP_Hidable_Master] [0438,41] Compile of BP_Hidable_Master failed. 2 Fatal Issue(s) 0 Warning(s) [in 17 ms] (/Game/My_Bp/BP_Hidable_Master.BP_Hidable_Master)
+[2018.08.11-19.21.35:025][114]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.08.11-19.21.35:436][114]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020149024960, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.11-19.21.35:436][114]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020149024958, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.11-19.21.36:433][114]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.11-19.21.36:673][115]LogSlate: Took 0.031813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.11-19.21.40:142][312]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020152b47c40, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.11-19.21.40:156][312]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020152b47c40, Size=64
+[2018.08.11-19.21.40:156][312]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020152b47cc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.11-19.21.40:166][312]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201538f26b0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.11-19.21.40:212][312]LogUObjectGlobals: Created PersistentFrame Addr=0x000002015357a080, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.21.40:220][312]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002015357a080, Size=432
+[2018.08.11-19.21.40:220][312]LogUObjectGlobals: Created PersistentFrame Addr=0x000002015357a080, Size=432, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_28:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.21.40:226][312]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201535173c0, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.21.40:230][312]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020153958c50, Size=16, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.11-19.21.40:232][312]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020153958c50, Size=16
+[2018.08.11-19.21.40:232][312]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020153958c50, Size=16, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_30:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.11-19.21.40:233][312]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201539588c0, Size=16, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.11-19.21.40:334][312]LogSkeletalMesh: Skeletal Mesh found in DDC [15.055254ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.08.11-19.21.50:232][858]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020185e94198, Size=4, Default__SKEL_Tech_demo_C Function /Game/map/Maps/Tech_demo.SKEL_Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.21.55:653][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020144c89f30, Size=40
+[2018.08.11-19.21.55:653][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020152b47cc0, Size=64
+[2018.08.11-19.21.55:654][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002015357a080, Size=432
+[2018.08.11-19.21.55:654][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020153958c50, Size=16
+[2018.08.11-19.21.55:847][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.21.55:883][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020185e94198, Size=4
+[2018.08.11-19.21.55:883][179]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020185e94198, Size=4, Default__SKEL_Tech_demo_C Function /Engine/Transient.REINST_SKEL_Tech_demo_C_34:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.21.55:887][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002012754b740, Size=152
+[2018.08.11-19.21.55:887][179]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020144ae6ac0, Size=152, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_36:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.21.55:889][179]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020186837b80, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.21.56:133][179]LogSavePackage: Save=253.39ms
+[2018.08.11-19.21.56:133][179]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo3519BFDC4700E72E0945C0B1EF40DE57.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.21.56:137][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.21.56:181][179]LogFileHelpers: Saving map 'Tech_demo' took 0.441
+[2018.08.11-19.21.57:183][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.21.57:210][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020144ae6ac0, Size=152
+[2018.08.11-19.21.57:210][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020185e94198, Size=4
+[2018.08.11-19.21.57:222][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020186837b80, Size=120
+[2018.08.11-19.21.57:222][227]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020185c8a080, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_40:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.21.57:225][227]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020185c8a480, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.21.57:468][227]LogSavePackage: Save=252.50ms
+[2018.08.11-19.21.57:468][227]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo50146A4543B8A3AD2EFCCA828BEE6635.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.21.57:472][227]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.21.57:517][227]LogFileHelpers: Saving map 'Tech_demo' took 0.435
+[2018.08.11-19.21.59:142][323]LogSlate: Window 'Tech_demo - Level Blueprint Editor' being destroyed
+[2018.08.11-19.22.02:273][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.22.02:352][512]LogRenderer: Reallocating scene render targets to support 764x584 Format 10 NumSamples 1 (Frame:7312).
+[2018.08.11-19.22.12:476][102]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201856a7b10, Size=4, Default__SKEL_BP_Hidable_Master_C Function /Game/My_Bp/BP_Hidable_Master.SKEL_BP_Hidable_Master_C:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.22.25:485][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201856a7b10, Size=4
+[2018.08.11-19.22.25:485][845]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201856a7b10, Size=4, Default__SKEL_BP_Hidable_Master_C Function /Engine/Transient.REINST_SKEL_BP_Hidable_Master_C_44:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.22.25:488][845]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201856a6d68, Size=4, Default__SKEL_BP_Hidable_Master_C Function /Game/My_Bp/BP_Hidable_Master.SKEL_BP_Hidable_Master_C:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.22.35:314][383]LogRenderer: Reallocating scene render targets to support 784x584 Format 10 NumSamples 1 (Frame:1).
+[2018.08.11-19.22.38:699][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.23.12:189][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.23.18:778][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.23.18:902][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/BP_Hidable_Master" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset" SILENT=true
+[2018.08.11-19.23.18:974][947]LogSavePackage: Save=57.49ms
+[2018.08.11-19.23.18:974][947]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/BP_Hidable_Master1EC70C1C408624E84BBC73A301D1B3C8.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset'
+[2018.08.11-19.23.18:978][947]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset
+[2018.08.11-19.23.19:141][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.23.19:224][960]BlueprintLog: New page: Compile BP_Hidable_Master
+[2018.08.11-19.23.19:239][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201856a6d68, Size=4
+[2018.08.11-19.23.19:240][960]LogUObjectGlobals: Created PersistentFrame Addr=0x000002014fa47988, Size=4, Default__SKEL_BP_Hidable_Master_C Function /Engine/Transient.REINST_SKEL_BP_Hidable_Master_C_46:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.23.19:261][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020144c8a660, Size=40
+[2018.08.11-19.23.19:261][960]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020144c8a660, Size=40, Default__BP_Hidable_Master_C Function /Engine/Transient.REINST_BP_Hidable_Master_C_50:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.23.19:265][960]LogBlueprint: Error: [Compiler BP_Hidable_Master] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.08.11-19.23.19:265][960]LogBlueprint: Error: [Compiler BP_Hidable_Master] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.08.11-19.23.19:266][960]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020144c8b268, Size=40, Default__BP_Hidable_Master_C Function /Game/My_Bp/BP_Hidable_Master.BP_Hidable_Master_C:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.23.19:385][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002014fa47988, Size=4
+[2018.08.11-19.23.19:386][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201856a7b10, Size=4
+[2018.08.11-19.23.19:386][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020185c8a080, Size=120
+[2018.08.11-19.23.19:400][960]LogBlueprint: Warning: [Compiler BP_Hidable_Master] [0543,27] Compile of BP_Hidable_Master failed. 2 Fatal Issue(s) 0 Warning(s) [in 175 ms] (/Game/My_Bp/BP_Hidable_Master.BP_Hidable_Master)
+[2018.08.11-19.23.50:247][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/BP_Hidable_Master" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset" SILENT=true
+[2018.08.11-19.23.50:313][683]LogSavePackage: Save=58.32ms
+[2018.08.11-19.23.50:313][683]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/BP_Hidable_Master25FD5DD94BD56B4D41CF189E24600951.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset'
+[2018.08.11-19.23.50:316][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset
+[2018.08.11-19.23.50:748][709]BlueprintLog: New page: Compile BP_Hidable_Master
+[2018.08.11-19.23.50:786][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020144c8b268, Size=40
+[2018.08.11-19.23.50:786][709]LogUObjectGlobals: Created PersistentFrame Addr=0x000002013fed61d8, Size=40, BP_Hidable_Master_C_31 Function /Engine/Transient.REINST_BP_Hidable_Master_C_56:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.23.50:794][709]LogUObjectGlobals: Created PersistentFrame Addr=0x000002013bb97440, Size=32, Default__BP_Hidable_Master_C Function /Game/My_Bp/BP_Hidable_Master.BP_Hidable_Master_C:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.11-19.23.50:914][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020144c8a660, Size=40
+[2018.08.11-19.23.52:134][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/BP_Hidable_Master" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset" SILENT=true
+[2018.08.11-19.23.52:201][773]LogSavePackage: Save=59.11ms
+[2018.08.11-19.23.52:201][773]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/BP_Hidable_MasterED2B063A46AAD7DCA49796A47E6D0142.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset'
+[2018.08.11-19.23.52:203][773]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Master.uasset
+[2018.08.11-19.24.08:439][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.24.21:314][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.24.30:745][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.24.48:147][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.25.01:175][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.25.10:148][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.25.52:044][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.26.13:142][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002013fed61d8, Size=40
+[2018.08.11-19.26.13:152][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.26.13:293][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.26.13:338][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020185c8a480, Size=120
+[2018.08.11-19.26.13:338][996]LogUObjectGlobals: Created PersistentFrame Addr=0x000002010d963e80, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_60:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.26.13:341][996]LogUObjectGlobals: Created PersistentFrame Addr=0x000002010d963f80, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.26.13:604][996]LogSavePackage: Save=273.04ms
+[2018.08.11-19.26.13:604][996]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo2EB2B35440C26B8EC6B7ED80D854D373.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.26.13:608][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.26.13:653][996]LogFileHelpers: Saving map 'Tech_demo' took 0.490
+[2018.08.11-19.26.15:389][ 87]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.11-19.26.15:421][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.26.15:422][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-19.26.15:422][ 87]PIE: New page: PIE session: Tech_demo (12 Ağu 2018 01:26:15)
+[2018.08.11-19.26.15:423][ 87]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.11-19.26.15:452][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029609s)
+[2018.08.11-19.26.15:453][ 87]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.11-19.26.15:453][ 87]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2018.08.11-19.26.15:453][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.030951s)
+[2018.08.11-19.26.15:476][ 87]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002010d963e80, Size=120
+[2018.08.11-19.26.15:483][ 87]LogInit: XAudio2 using 'Hoparlör (2- C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-19.26.15:494][ 87]LogInit: FAudioDevice initialized.
+[2018.08.11-19.26.15:601][ 87]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.11-19.26.15:607][ 87]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.11-22.26.15
+[2018.08.11-19.26.15:607][ 87]LogWorld: Bringing up level for play took: 0.004689
+[2018.08.11-19.26.15:615][ 87]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.08.11-19.26.15:670][ 87]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,686
+[2018.08.11-19.26.15:671][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.26.15:707][ 87]LogRenderer: Reallocating scene render targets to support 1024x584 Format 10 NumSamples 1 (Frame:1).
+[2018.08.11-19.26.31:300][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.26.31:329][ 11]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.11-19.26.31:368][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.26.38:192][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_drone)
+[2018.08.11-19.26.41:759][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.27.48:504][461]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.11-19.27.48:530][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.27.48:530][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-19.27.48:530][461]PIE: New page: PIE session: Tech_demo (12 Ağu 2018 01:27:48)
+[2018.08.11-19.27.48:530][461]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.11-19.27.48:539][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008854s)
+[2018.08.11-19.27.48:540][461]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.11-19.27.48:540][461]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2018.08.11-19.27.48:541][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010115s)
+[2018.08.11-19.27.48:571][461]LogInit: XAudio2 using 'Hoparlör (2- C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-19.27.48:582][461]LogInit: FAudioDevice initialized.
+[2018.08.11-19.27.48:671][461]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.11-19.27.48:677][461]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.11-22.27.48
+[2018.08.11-19.27.48:677][461]LogWorld: Bringing up level for play took: 0.004653
+[2018.08.11-19.27.48:685][461]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,328
+[2018.08.11-19.27.48:685][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.29.05:596][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.29.33:305][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.29.33:414][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.47:482][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.47:909][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.48:355][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_099)
+[2018.08.11-19.29.49:557][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_112)
+[2018.08.11-19.29.50:553][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane)
+[2018.08.11-19.29.51:406][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_019)
+[2018.08.11-19.29.52:838][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_024)
+[2018.08.11-19.29.53:509][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_023)
+[2018.08.11-19.29.54:361][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.54:914][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.56:093][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.56:372][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.56:758][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.57:076][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.57:469][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.57:777][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.58:107][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.59:584][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.29.59:921][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.30.00:205][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.30.00:685][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_098)
+[2018.08.11-19.30.00:996][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.30.01:561][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.30.02:064][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.30.02:399][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_099)
+[2018.08.11-19.30.08:309][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_111)
+[2018.08.11-19.30.14:572][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_111)
+[2018.08.11-19.30.14:720][802]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.08.11-19.30.17:492][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.30.29:140][582]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:1).
+[2018.08.11-19.30.44:315][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.30.58:423][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.31.00:862][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.31.07:123][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.31.32:965][548]LogSavePackage: Save=20.35ms
+[2018.08.11-19.31.32:965][548]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/map_final_Plane_1114367260F43FC0F97E1C1FE8D59140F76.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/map_elements/map_final_Plane_111.uasset'
+[2018.08.11-19.31.32:973][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/map_elements/map_final_Plane_111.uasset
+[2018.08.11-19.31.34:863][633]LogSavePackage: Save=9.22ms
+[2018.08.11-19.31.34:863][633]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/map_final_Plane_111AB12FF01436DD26A39AC8798805DC523.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/map_elements/map_final_Plane_111.uasset'
+[2018.08.11-19.31.34:865][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/map_elements/map_final_Plane_111.uasset
+[2018.08.11-19.31.36:378][701]LogSlate: Window 'map_final_Plane_111' being destroyed
+[2018.08.11-19.31.44:538][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.31.44:568][ 99]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.11-19.31.44:610][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.31.49:912][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.31.49:962][402]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002010d963f80, Size=120
+[2018.08.11-19.31.49:962][402]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020140141980, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_64:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.31.49:965][402]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020140143380, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.31.50:222][402]LogSavePackage: Save=268.22ms
+[2018.08.11-19.31.50:222][402]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo2E726F62402BD0FEF9F99E9244AA474F.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.31.50:226][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.31.50:282][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo_BuiltData" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset" SILENT=true
+[2018.08.11-19.31.50:459][402]LogSavePackage: Save=157.26ms
+[2018.08.11-19.31.50:459][402]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo_BuiltData0680484F49642F6D06FF1D9AE29B45EB.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset'
+[2018.08.11-19.31.50:461][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset
+[2018.08.11-19.31.51:792][472]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.11-19.31.51:822][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.31.51:822][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-19.31.51:822][472]PIE: New page: PIE session: Tech_demo (12 Ağu 2018 01:31:51)
+[2018.08.11-19.31.51:822][472]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.11-19.31.51:889][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066461s)
+[2018.08.11-19.31.51:890][472]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.11-19.31.51:890][472]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2018.08.11-19.31.51:890][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.067503s)
+[2018.08.11-19.31.51:912][472]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020140141980, Size=120
+[2018.08.11-19.31.51:920][472]LogInit: XAudio2 using 'Hoparlör (2- C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-19.31.51:930][472]LogInit: FAudioDevice initialized.
+[2018.08.11-19.31.52:041][472]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.11-19.31.52:046][472]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.11-22.31.52
+[2018.08.11-19.31.52:047][472]LogWorld: Bringing up level for play took: 0.005448
+[2018.08.11-19.31.52:056][472]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,3
+[2018.08.11-19.31.52:056][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.34.09:918][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.34.09:951][687]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.11-19.34.09:988][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.34.29:413][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.34.31:153][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.34.34:310][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane)
+[2018.08.11-19.34.50:438][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.34.51:190][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.34.54:250][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.35.14:133][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.35.14:370][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.35.14:410][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020140143380, Size=120
+[2018.08.11-19.35.14:410][345]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201850d3100, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_68:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.35.14:413][345]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201850d0f00, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.35.14:662][345]LogSavePackage: Save=258.08ms
+[2018.08.11-19.35.14:662][345]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demoBFFB14554C04CE5248045AB010C889B1.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.35.14:666][345]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.35.14:722][345]LogFileHelpers: Saving map 'Tech_demo' took 0.573
+[2018.08.11-19.35.16:215][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.11-19.35.16:244][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.35.16:244][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-19.35.16:244][419]PIE: New page: PIE session: Tech_demo (12 Ağu 2018 01:35:16)
+[2018.08.11-19.35.16:244][419]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.11-19.35.16:263][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018766s)
+[2018.08.11-19.35.16:264][419]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.11-19.35.16:265][419]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2018.08.11-19.35.16:265][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.020610s)
+[2018.08.11-19.35.16:291][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201850d3100, Size=120
+[2018.08.11-19.35.16:299][419]LogInit: XAudio2 using 'Hoparlör (2- C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-19.35.16:310][419]LogInit: FAudioDevice initialized.
+[2018.08.11-19.35.16:404][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.11-19.35.16:411][419]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.11-22.35.16
+[2018.08.11-19.35.16:411][419]LogWorld: Bringing up level for play took: 0.005582
+[2018.08.11-19.35.16:420][419]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,064
+[2018.08.11-19.35.16:420][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.35.42:823][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.35.42:853][997]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.11-19.35.42:891][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.36.59:074][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.37.01:933][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.37.06:238][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_114)
+[2018.08.11-19.37.07:128][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.37.07:643][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.38.03:337][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.46.45:029][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.47.45:139][222]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.08.11-19.48.31:921][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.48.37:584][335]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019693fbf0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.48.37:690][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.48.50:671][101]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019693fbf0, Size=4
+[2018.08.11-19.48.50:671][101]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019693fbf0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_72:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.48.50:675][101]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019693ed00, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.48.55:248][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.49.09:316][209]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.11-19.49.09:325][209]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019693ed00, Size=4
+[2018.08.11-19.49.09:325][209]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c326560, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_74:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.09:335][209]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201535173c0, Size=432
+[2018.08.11-19.49.09:335][209]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020133deab00, Size=432, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_76:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.09:341][209]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020153517200, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.09:662][209]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c326560, Size=4
+[2018.08.11-19.49.09:662][209]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019693fbf0, Size=4
+[2018.08.11-19.49.10:429][241]LogSavePackage: Save=53.33ms
+[2018.08.11-19.49.10:429][241]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/ThirdPersonCharacterB7A26F664118FF56AF210A9598E38AF8.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.11-19.49.10:435][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.08.11-19.49.31:064][445]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c327978, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.34:343][626]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c327978, Size=4
+[2018.08.11-19.49.34:343][626]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c327978, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_80:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.34:354][626]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019693eb20, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.43:435][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019693eb20, Size=4
+[2018.08.11-19.49.43:435][142]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019740f938, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_82:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.43:439][142]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019740f630, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.47:221][352]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019740f630, Size=4
+[2018.08.11-19.49.47:221][352]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c326f78, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_84:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.49.47:226][352]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c327270, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.50.13:971][783]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019693dd80, Size=4, Default__SKEL_BP_Hidable_Ceiling_Master_C Function /Game/My_Bp/BP_Hidable_Ceiling_Master.SKEL_BP_Hidable_Ceiling_Master_C:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.11-19.50.13:971][783]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019693dd80, Size=4
+[2018.08.11-19.50.13:972][783]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019693dd80, Size=4, Default__SKEL_BP_Hidable_Ceiling_Master_C Function /Engine/Transient.REINST_SKEL_BP_Hidable_Ceiling_Master_C_87:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.11-19.50.13:975][783]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019693faf8, Size=4, Default__SKEL_BP_Hidable_Ceiling_Master_C Function /Game/My_Bp/BP_Hidable_Ceiling_Master.SKEL_BP_Hidable_Ceiling_Master_C:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.11-19.50.13:984][783]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020156b9eda0, Size=32, Default__BP_Hidable_Ceiling_Master_C Function /Game/My_Bp/BP_Hidable_Ceiling_Master.BP_Hidable_Ceiling_Master_C:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.11-19.50.14:001][783]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019693faf8, Size=4
+[2018.08.11-19.50.14:001][783]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019693faf8, Size=4, Default__SKEL_BP_Hidable_Ceiling_Master_C Function /Engine/Transient.REINST_SKEL_BP_Hidable_Ceiling_Master_C_90:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.11-19.50.14:017][783]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020156b9eda0, Size=32
+[2018.08.11-19.50.14:017][783]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020156b9eda0, Size=32, Default__BP_Hidable_Ceiling_Master_C Function /Engine/Transient.REINST_BP_Hidable_Ceiling_Master_C_92:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.11-19.50.14:024][783]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020156b9cac0, Size=32, Default__BP_Hidable_Ceiling_Master_C Function /Game/My_Bp/BP_Hidable_Ceiling_Master.BP_Hidable_Ceiling_Master_C:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.11-19.50.22:509][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.50.30:585][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.50.33:910][932]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.11-19.50.33:919][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c327270, Size=4
+[2018.08.11-19.50.33:919][932]LogUObjectGlobals: Created PersistentFrame Addr=0x000002019740ec28, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_94:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.50.33:930][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020153517200, Size=432
+[2018.08.11-19.50.33:930][932]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201408fd280, Size=432, ThirdPersonCharacter_C_180 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_96:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.50.33:937][932]LogUObjectGlobals: Created PersistentFrame Addr=0x000002014faf0b80, Size=640, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.50.34:265][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020156b9eda0, Size=32
+[2018.08.11-19.50.34:265][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019693faf8, Size=4
+[2018.08.11-19.50.34:265][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019693dd80, Size=4
+[2018.08.11-19.50.34:265][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019740ec28, Size=4
+[2018.08.11-19.51.19:403][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201408fd280, Size=432
+[2018.08.11-19.51.19:509][520]LogSavePackage: Save=58.73ms
+[2018.08.11-19.51.19:509][520]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/ThirdPersonCharacter586A99F044F04182DFCE8EA353F855E2.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.11-19.51.19:512][520]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.08.11-19.51.19:557][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/BP_Hidable_Ceiling_Master" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Ceiling_Master.uasset" SILENT=true
+[2018.08.11-19.51.19:636][520]LogSavePackage: Save=76.86ms
+[2018.08.11-19.51.19:636][520]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/BP_Hidable_Ceiling_MasterD2F8205D429BBEE8BD8876BB9219B6A7.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Ceiling_Master.uasset'
+[2018.08.11-19.51.19:642][520]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/My_Bp/BP_Hidable_Ceiling_Master.uasset
+[2018.08.11-19.51.27:277][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.51.28:598][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.51.30:004][127]LogEditorActor: Deleted Actor: BP_Hidable_Master_C
+[2018.08.11-19.51.30:030][127]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.08.11-19.51.43:349][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.52.00:038][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.52.13:222][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.52.22:938][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.52.36:047][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.52.36:167][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.52.36:216][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201850d0f00, Size=120
+[2018.08.11-19.52.36:216][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020133fad800, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_100:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.52.36:218][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020133fad900, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.52.36:461][ 47]LogSavePackage: Save=251.36ms
+[2018.08.11-19.52.36:461][ 47]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo085800EE4D905D05B4BA47BE0493184E.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.52.36:464][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.52.36:512][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo_BuiltData" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset" SILENT=true
+[2018.08.11-19.52.36:674][ 47]LogSavePackage: Save=144.55ms
+[2018.08.11-19.52.36:674][ 47]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo_BuiltData2C42366D4711EFD695F9FAB842D21FED.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset'
+[2018.08.11-19.52.36:676][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo_BuiltData.uasset
+[2018.08.11-19.52.37:413][ 81]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c326f78, Size=4
+[2018.08.11-19.52.37:413][ 81]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002019740f938, Size=4
+[2018.08.11-19.52.37:413][ 81]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c327978, Size=4
+[2018.08.11-19.52.37:413][ 81]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020133fad800, Size=120
+[2018.08.11-19.52.38:920][169]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.11-19.52.38:964][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.52.38:965][169]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.11-19.52.38:977][169]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.08.11-19.52.38:988][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002014faf0b80, Size=640
+[2018.08.11-19.52.38:988][169]LogUObjectGlobals: Created PersistentFrame Addr=0x000002013095e200, Size=640, ThirdPersonCharacter_C_206 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_104:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.52.38:995][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020192ff0100, Size=672, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.11-19.52.39:341][169]LogPlayLevel: PlayLevel: Blueprint regeneration took 376 ms (1 blueprints)
+[2018.08.11-19.52.39:341][169]PIE: New page: PIE session: Tech_demo (12 Ağu 2018 01:52:39)
+[2018.08.11-19.52.39:342][169]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.11-19.52.39:379][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037634s)
+[2018.08.11-19.52.39:380][169]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.11-19.52.39:380][169]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.08.11-19.52.39:380][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.038780s)
+[2018.08.11-19.52.39:409][169]LogInit: XAudio2 using 'Hoparlör (2- C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-19.52.39:419][169]LogInit: FAudioDevice initialized.
+[2018.08.11-19.52.39:515][169]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.11-19.52.39:520][169]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.11-22.52.39
+[2018.08.11-19.52.39:520][169]LogWorld: Bringing up level for play took: 0.004554
+[2018.08.11-19.52.39:528][169]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 1,172
+[2018.08.11-19.52.39:529][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.52.46:428][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.52.46:455][572]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.11-19.52.46:492][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.52.48:985][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.52.53:453][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.53.00:028][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.53.00:211][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.53.00:252][353]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020133fad900, Size=120
+[2018.08.11-19.53.00:252][353]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020195c25880, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_108:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.53.00:254][353]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020195c25100, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.53.00:495][353]LogSavePackage: Save=249.61ms
+[2018.08.11-19.53.00:495][353]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demoD14CD5DB47BBB8797068CEAB3674EFE0.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.53.00:499][353]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.53.00:542][353]LogFileHelpers: Saving map 'Tech_demo' took 0.503
+[2018.08.11-19.53.01:408][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.53.02:155][438]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.11-19.53.02:183][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.53.02:183][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-19.53.02:184][438]PIE: New page: PIE session: Tech_demo (12 Ağu 2018 01:53:02)
+[2018.08.11-19.53.02:184][438]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.11-19.53.02:193][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008844s)
+[2018.08.11-19.53.02:193][438]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.11-19.53.02:194][438]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.08.11-19.53.02:194][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010022s)
+[2018.08.11-19.53.02:217][438]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020195c25880, Size=120
+[2018.08.11-19.53.02:225][438]LogInit: XAudio2 using 'Hoparlör (2- C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-19.53.02:235][438]LogInit: FAudioDevice initialized.
+[2018.08.11-19.53.02:239][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.53.02:329][438]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.11-19.53.02:334][438]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.11-22.53.02
+[2018.08.11-19.53.02:335][438]LogWorld: Bringing up level for play took: 0.004983
+[2018.08.11-19.53.02:343][438]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,013
+[2018.08.11-19.53.02:344][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.53.15:707][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.53.15:734][237]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.11-19.53.15:781][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.11-19.53.17:631][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.11-19.53.20:570][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-19.53.29:949][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-19.53.30:062][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-19.53.30:101][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020195c25100, Size=120
+[2018.08.11-19.53.30:101][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020186834c00, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_112:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.53.30:104][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020186835000, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.11-19.53.30:431][ 60]LogSavePackage: Save=337.14ms
+[2018.08.11-19.53.30:434][ 60]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Saved/Tech_demo3F98D3344B39A786C7ADC39B2F93E035.tmp' to '../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.11-19.53.30:444][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.11-19.53.30:529][ 60]LogFileHelpers: Saving map 'Tech_demo' took 0.569
+[2018.08.11-19.53.30:831][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
