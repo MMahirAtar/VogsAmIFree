@@ -1,0 +1,1415 @@
+﻿Log file open, 08/16/18 02:58:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Am_i_Free
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1204263950) SRandInit(-1204263950).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.326741
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  4.935s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-KQUM2EF (192.168.1.102:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.15-23.58.26:787][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.15-23.58.26:787][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.15-23.58.26:917][  0]LogInit: Computer: DESKTOP-KQUM2EF
+[2018.08.15-23.58.26:917][  0]LogInit: User: Mahir
+[2018.08.15-23.58.26:917][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.15-23.58.26:917][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.08.15-23.58.26:917][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.08.15-23.58.26:917][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.15-23.58.26:917][  0]LogMemory: Process Physical Memory: 275.33 MB used, 275.33 MB peak
+[2018.08.15-23.58.26:917][  0]LogMemory: Process Virtual Memory: 272.68 MB used, 272.68 MB peak
+[2018.08.15-23.58.26:917][  0]LogMemory: Physical Memory: 5932.57 MB used,  10409.79 MB free, 16342.36 MB total
+[2018.08.15-23.58.26:917][  0]LogMemory: Virtual Memory: 4802.22 MB used,  10409.79 MB free, 134217728.00 MB total
+[2018.08.15-23.58.27:993][  0]LogInit: Using OS detected language (tr-TR).
+[2018.08.15-23.58.27:993][  0]LogInit: Using OS detected locale (tr-TR).
+[2018.08.15-23.58.28:300][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2018.08.15-23.58.29:216][  0]LogStreaming: Display: Took  1.200s to EndInitTextLocalization.
+[2018.08.15-23.58.29:238][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.15-23.58.29:894][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.15-23.58.29:894][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.15-23.58.35:139][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.15-23.58.35:254][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.08.15-23.58.35:254][  0]LogD3D11RHI:       8081/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.15-23.58.35:259][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.15-23.58.35:259][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.15-23.58.35:259][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.15-23.58.35:271][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.15-23.58.35:300][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.15-23.58.35:300][  0]LogWindows: EnumDisplayDevices:
+[2018.08.15-23.58.35:300][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.08.15-23.58.35:300][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.15-23.58.35:300][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.15-23.58.35:301][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.15-23.58.35:301][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.15-23.58.35:301][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.08.15-23.58.35:301][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.15-23.58.35:301][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.15-23.58.35:310][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.08.15-23.58.35:369][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.15-23.58.35:369][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.15-23.58.35:369][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.15-23.58.35:851][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.15-23.58.35:972][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Intermediate/Shaders/WorkingDirectory/11020/).
+[2018.08.15-23.58.35:977][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mahir/AppData/Local/Temp/UnrealShaderWorkingDir/1DAF47F94E9916B3B1A666A46699AE09/'.
+[2018.08.15-23.58.38:608][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.15-23.58.38:630][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.15-23.58.38:650][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.15-23.58.38:676][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.15-23.58.38:731][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.15-23.58.38:761][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.15-23.58.38:779][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.15-23.58.38:804][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.15-23.58.38:818][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.15-23.58.38:836][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.15-23.58.38:851][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.15-23.58.38:864][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.15-23.58.38:879][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.15-23.58.38:896][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.15-23.58.38:912][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.15-23.58.38:949][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.15-23.58.38:950][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.15-23.58.38:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.15-23.58.38:998][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.15-23.58.39:177][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.15-23.58.39:193][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.15-23.58.39:210][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.15-23.58.39:226][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.15-23.58.39:241][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.15-23.58.39:291][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.15-23.58.39:291][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.15-23.58.40:403][  0]LogXGEController: Cleaning working directory: C:/Users/Mahir/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.15-23.58.40:403][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.15-23.58.40:418][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.15-23.58.40:418][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.15-23.58.45:821][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.15-23.58.46:808][  0]LogDerivedDataCache: Loaded boot cache 0.99s 74MB C:/Users/Mahir/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.15-23.58.46:808][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mahir/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.15-23.58.46:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.15-23.58.46:808][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.15-23.58.46:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.15-23.58.46:808][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.15-23.58.46:909][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.15-23.58.46:953][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mahir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.15-23.58.46:953][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.15-23.58.46:953][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.15-23.58.46:983][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.15-23.58.47:035][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.15-23.58.47:127][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.15-23.58.47:127][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.15-23.58.55:493][  0]LogAssetRegistry: FAssetRegistry took 0.0436 seconds to start up
+[2018.08.15-23.58.59:067][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.15-23.59.01:843][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.15-23.59.01:860][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.15-23.59.01:872][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.15-23.59.01:874][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.15-23.59.01:874][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.15-23.59.01:874][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.15-23.59.02:180][  0]LogNetVersion: Am_i_Free , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3243282978)
+[2018.08.15-23.59.07:269][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.100827 seconds
+[2018.08.15-23.59.07:302][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.15-23.59.07:302][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.08.15-23.59.07:302][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.15-23.59.34:818][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.15-23.59.34:864][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.15-23.59.35:860][  0]SourceControl: Source control is disabled
+[2018.08.15-23.59.35:860][  0]SourceControl: Source control is disabled
+[2018.08.15-23.59.35:904][  0]SourceControl: Source control is disabled
+[2018.08.15-23.59.35:945][  0]SourceControl: Source control is disabled
+[2018.08.15-23.59.37:038][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.15-23.59.37:336][  0]LogOcInput: OculusInput pre-init called
+[2018.08.15-23.59.37:834][  0]LogEngine: Initializing Engine...
+[2018.08.15-23.59.37:838][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.15-23.59.37:855][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.15-23.59.37:855][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.15-23.59.39:381][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.15-23.59.39:469][  0]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.15-23.59.39:529][  0]LogInit: FAudioDevice initialized.
+[2018.08.15-23.59.39:710][  0]LogDerivedDataCache: Saved boot cache 0.18s 74MB C:/Users/Mahir/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.15-23.59.39:742][  0]LogInit: Texture streaming: Enabled
+[2018.08.15-23.59.39:811][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.15-23.59.39:922][  0]LogInit: Transaction tracking system initialized
+[2018.08.15-23.59.40:712][  0]BlueprintLog: New page: Editor Load
+[2018.08.15-23.59.41:636][  0]LocalizationService: Localization service is disabled
+[2018.08.15-23.59.42:048][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.08.15-23.59.42:065][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.08.15-23.59.42:065][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.08.15-23.59.42:342][  0]LogConsoleResponse: Display: 
+[2018.08.15-23.59.46:214][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahir/Documents/GitHub/VogsAmIFree/Content/' took 0.02s
+[2018.08.15-23.59.46:214][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.15-23.59.46:214][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.15-23.59.46:214][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.15-23.59.46:214][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.15-23.59.46:214][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.15-23.59.48:365][  0]SourceControl: Source control is disabled
+[2018.08.15-23.59.48:391][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.15-23.59.48:394][  0]LightingResults: New page: Lighting Build
+[2018.08.15-23.59.48:483][  0]MapCheck: New page: Map Check
+[2018.08.15-23.59.48:483][  0]LightingResults: New page: Lighting Build
+[2018.08.15-23.59.49:217][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee22b777a0, Size=32, Default__BP_Hidable_Ceiling_Master_C Function /Game/My_Bp/BP_Hidable_Ceiling_Master.BP_Hidable_Ceiling_Master_C:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.15-23.59.49:265][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee22b777a0, Size=32
+[2018.08.15-23.59.49:265][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee22b777a0, Size=32, Default__BP_Hidable_Ceiling_Master_C Function /Engine/Transient.REINST_BP_Hidable_Ceiling_Master_C_3:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.15-23.59.49:280][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3ed5eb60, Size=32, Default__BP_Hidable_Ceiling_Master_C Function /Game/My_Bp/BP_Hidable_Ceiling_Master.BP_Hidable_Ceiling_Master_C:ExecuteUbergraph_BP_Hidable_Ceiling_Master
+[2018.08.15-23.59.49:467][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee220aae80, Size=288, Default__door_C Function /Game/My_Bp/door.door_C:ExecuteUbergraph_door
+[2018.08.15-23.59.49:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee220aae80, Size=288
+[2018.08.15-23.59.49:477][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee220aae80, Size=288, Default__door_C Function /Engine/Transient.REINST_door_C_5:ExecuteUbergraph_door
+[2018.08.15-23.59.49:511][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee22039b40, Size=208, Default__door_C Function /Game/My_Bp/door.door_C:ExecuteUbergraph_door
+[2018.08.15-23.59.55:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee220d5000, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.15-23.59.55:502][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee220d5000, Size=120
+[2018.08.15-23.59.55:502][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee220d5000, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_9:ExecuteUbergraph_Tech_demo
+[2018.08.15-23.59.55:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee220d4500, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.00.11:653][  0]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.00.12:083][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.16-00.00.12:169][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee22b777a0, Size=32
+[2018.08.16-00.00.12:169][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee220aae80, Size=288
+[2018.08.16-00.00.12:169][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee220d5000, Size=120
+[2018.08.16-00.00.12:202][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.16-00.00.12:380][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 178,849ms to complete.
+[2018.08.16-00.00.12:380][  0]LogFileHelpers: Loading map 'Tech_demo' took 24.008
+[2018.08.16-00.00.13:243][  0]LogCollectionManager: Loaded 0 collections in 0.002570 seconds
+[2018.08.16-00.00.13:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/Collections/' took 0.01s
+[2018.08.16-00.00.13:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahir/Documents/GitHub/VogsAmIFree/Content/Developers/Mahir/Collections/' took 0.01s
+[2018.08.16-00.00.13:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahir/Documents/GitHub/VogsAmIFree/Content/Collections/' took 0.01s
+[2018.08.16-00.00.13:349][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.16-00.00.13:362][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2452 classes and 558 folders.
+[2018.08.16-00.00.13:426][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.16-00.00.15:694][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.16-00.00.16:200][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.16-00.00.19:480][  0]LogSlate: Took 0.024793 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.16-00.00.19:498][  0]LogSlate: Took 0.016334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.16-00.00.19:552][  0]LogSlate: Took 0.052039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.16-00.00.20:565][  0]LogRenderer: Reallocating scene render targets to support 924x964 Format 10 NumSamples 1 (Frame:1).
+[2018.08.16-00.00.21:216][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.16-00.00.21:216][  0]LogLoad: (Engine Initialization) Total time: 140.13 seconds
+[2018.08.16-00.00.21:216][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.16-00.00.22:034][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.16-00.00.22:901][  2]LogAssetRegistry: Asset discovery search completed in 87.4308 seconds
+[2018.08.16-00.00.22:904][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.16-00.00.22:904][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2018.08.16-00.00.26:748][ 13]LogSlate: Took 0.042059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.16-00.01.46:774][471]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.08.16-00.01.48:644][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.01.48:744][600]LogSlate: Took 0.000588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.16-00.01.49:795][600]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.08.16-00.01.50:360][600]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee63736828, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.16-00.01.50:382][600]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee63736820, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.16-00.01.54:200][761]LogSlate: Took 0.039118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.16-00.01.54:527][762]LogSlate: Took 0.026519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.16-00.02.13:491][280]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.02.13:543][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.13:585][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.02.13:700][280]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:02:13)
+[2018.08.16-00.02.13:701][280]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.02.13:764][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062716s)
+[2018.08.16-00.02.13:764][280]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.02.13:802][280]LogPlayLevel: PIE: World Init took: (0.038099s)
+[2018.08.16-00.02.13:802][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.101102s)
+[2018.08.16-00.02.13:876][280]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.02.13:908][280]LogInit: FAudioDevice initialized.
+[2018.08.16-00.02.14:227][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee4922a040, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.16-00.02.14:272][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee4922a040, Size=64
+[2018.08.16-00.02.14:272][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee4922a0c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.16-00.02.14:282][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee682dc450, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.16-00.02.14:311][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee37816840, Size=32, Default__BP_Hidable_Master_C Function /Game/My_Bp/BP_Hidable_Master.BP_Hidable_Master_C:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.16-00.02.14:317][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee37816840, Size=32
+[2018.08.16-00.02.14:317][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee4927a920, Size=32, Default__BP_Hidable_Master_C Function /Engine/Transient.REINST_BP_Hidable_Master_C_24:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.16-00.02.14:321][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee4927a220, Size=32, Default__BP_Hidable_Master_C Function /Game/My_Bp/BP_Hidable_Master.BP_Hidable_Master_C:ExecuteUbergraph_BP_Hidable_Master
+[2018.08.16-00.02.14:944][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6bc19600, Size=672, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.16-00.02.14:953][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee6bc19600, Size=672
+[2018.08.16-00.02.14:953][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6b832b00, Size=672, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_26:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.16-00.02.14:960][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6b831000, Size=672, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.16-00.02.14:990][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6b3f4ee0, Size=16, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.16-00.02.14:991][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee6b3f4ee0, Size=16
+[2018.08.16-00.02.14:991][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6b3f4ee0, Size=16, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_28:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.16-00.02.14:993][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6b3f6530, Size=16, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.16-00.02.15:274][280]LogSkeletalMesh: Skeletal Mesh found in DDC [117.975006ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.08.16-00.02.15:488][280]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.02.15:595][280]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 0) at 2018.08.16-03.02.15
+[2018.08.16-00.02.15:644][280]LogWorld: Bringing up level for play took: 0.053975
+[2018.08.16-00.02.15:802][280]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.08.16-00.02.15:998][280]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 1,969
+[2018.08.16-00.02.16:011][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.16:140][280]LogRenderer: Reallocating scene render targets to support 1292x964 Format 10 NumSamples 1 (Frame:1).
+[2018.08.16-00.02.16:249][281]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.076203 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2018.08.16-00.02.19:188][526]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.19:239][526]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.02.19:320][526]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.19:356][526]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee6b3f4ee0, Size=16
+[2018.08.16-00.02.19:357][526]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee6b832b00, Size=672
+[2018.08.16-00.02.19:357][526]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee4927a920, Size=32
+[2018.08.16-00.02.19:357][526]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee4922a0c0, Size=64
+[2018.08.16-00.02.22:780][881]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.02.22:802][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.22:802][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.02.22:802][881]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:02:22)
+[2018.08.16-00.02.22:803][881]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.02.22:811][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008389s)
+[2018.08.16-00.02.22:812][881]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.02.22:812][881]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2018.08.16-00.02.22:812][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009857s)
+[2018.08.16-00.02.22:843][881]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.02.22:876][881]LogInit: FAudioDevice initialized.
+[2018.08.16-00.02.22:930][881]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.02.22:937][881]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 0) at 2018.08.16-03.02.22
+[2018.08.16-00.02.22:937][881]LogWorld: Bringing up level for play took: 0.005850
+[2018.08.16-00.02.22:947][881]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,919
+[2018.08.16-00.02.22:949][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.26:700][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.26:721][211]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.02.26:754][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.31:702][726]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.02.31:727][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.31:727][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.02.31:727][726]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:02:31)
+[2018.08.16-00.02.31:727][726]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.02.31:736][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008873s)
+[2018.08.16-00.02.31:736][726]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.02.31:737][726]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2018.08.16-00.02.31:737][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010003s)
+[2018.08.16-00.02.31:767][726]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.02.31:807][726]LogInit: FAudioDevice initialized.
+[2018.08.16-00.02.31:854][726]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.02.31:859][726]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 0) at 2018.08.16-03.02.31
+[2018.08.16-00.02.31:859][726]LogWorld: Bringing up level for play took: 0.005049
+[2018.08.16-00.02.31:867][726]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,161
+[2018.08.16-00.02.31:868][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.35:911][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.35:933][ 87]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.02.35:967][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.38:042][296]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.02.38:064][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.38:064][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.02.38:064][296]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:02:38)
+[2018.08.16-00.02.38:064][296]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.02.38:073][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008745s)
+[2018.08.16-00.02.38:073][296]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.02.38:074][296]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.08.16-00.02.38:074][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009881s)
+[2018.08.16-00.02.38:104][296]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.02.38:134][296]LogInit: FAudioDevice initialized.
+[2018.08.16-00.02.38:180][296]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.02.38:186][296]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 0) at 2018.08.16-03.02.38
+[2018.08.16-00.02.38:187][296]LogWorld: Bringing up level for play took: 0.005633
+[2018.08.16-00.02.38:196][296]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,168
+[2018.08.16-00.02.38:196][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.41:942][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.41:963][621]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.02.42:003][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.02.52:007][421]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.08.16-00.03.01:502][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.03.01:594][428]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.03.01:615][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.01:615][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.03.01:616][428]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:03:01)
+[2018.08.16-00.03.01:616][428]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.03.01:652][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036133s)
+[2018.08.16-00.03.01:653][428]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.03.01:653][428]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2018.08.16-00.03.01:653][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.037295s)
+[2018.08.16-00.03.01:683][428]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.03.01:715][428]LogInit: FAudioDevice initialized.
+[2018.08.16-00.03.01:768][428]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.03.01:774][428]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 0) at 2018.08.16-03.03.01
+[2018.08.16-00.03.01:775][428]LogWorld: Bringing up level for play took: 0.006272
+[2018.08.16-00.03.01:787][428]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,242
+[2018.08.16-00.03.01:788][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.05:128][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.05:149][786]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.03.05:233][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.06:139][887]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.08.16-00.03.11:285][448]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.08.16-00.03.13:028][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.03.19:408][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.03.21:422][495]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (left)
+[2018.08.16-00.03.24:984][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.03.26:938][ 62]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (left)
+[2018.08.16-00.03.28:189][160]Cmd: SELECT NONE
+[2018.08.16-00.03.28:747][191]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.08.16-00.03.37:203][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.03.37:294][ 67]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.03.37:315][ 67]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.37:315][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.03.37:315][ 67]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:03:37)
+[2018.08.16-00.03.37:315][ 67]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.03.37:327][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010851s)
+[2018.08.16-00.03.37:327][ 67]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.03.37:328][ 67]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2018.08.16-00.03.37:328][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.012433s)
+[2018.08.16-00.03.37:361][ 67]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.03.37:393][ 67]LogInit: FAudioDevice initialized.
+[2018.08.16-00.03.37:445][ 67]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.03.37:451][ 67]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 0) at 2018.08.16-03.03.37
+[2018.08.16-00.03.37:451][ 67]LogWorld: Bringing up level for play took: 0.004972
+[2018.08.16-00.03.37:460][ 67]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,568
+[2018.08.16-00.03.37:461][ 67]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.40:131][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.40:153][362]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.03.40:216][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.41:048][454]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.08.16-00.03.52:990][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.03.53:089][624]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.03.53:115][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.03.53:115][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.03.53:116][624]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:03:53)
+[2018.08.16-00.03.53:116][624]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.03.53:124][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008207s)
+[2018.08.16-00.03.53:125][624]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.03.53:125][624]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.08.16-00.03.53:125][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009346s)
+[2018.08.16-00.03.53:157][624]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.03.53:187][624]LogInit: FAudioDevice initialized.
+[2018.08.16-00.03.53:238][624]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.03.53:243][624]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.03.53
+[2018.08.16-00.03.53:244][624]LogWorld: Bringing up level for play took: 0.004636
+[2018.08.16-00.03.53:253][624]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,776
+[2018.08.16-00.03.53:253][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.04.02:274][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.04.02:296][162]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.04.02:337][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.04.06:887][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.04.15:627][866]BlueprintLog: New page: Compile door
+[2018.08.16-00.04.15:663][866]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee22039b40, Size=208
+[2018.08.16-00.04.15:663][866]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee26ecb200, Size=208, Default__door_C Function /Engine/Transient.REINST_door_C_32:ExecuteUbergraph_door
+[2018.08.16-00.04.15:669][866]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee66e0ef60, Size=208, Default__door_C Function /Game/My_Bp/door.door_C:ExecuteUbergraph_door
+[2018.08.16-00.04.16:467][883]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.04.16:492][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.04.16:492][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.04.16:493][883]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:04:16)
+[2018.08.16-00.04.16:493][883]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.04.16:501][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008678s)
+[2018.08.16-00.04.16:502][883]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.04.16:503][883]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2018.08.16-00.04.16:503][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010053s)
+[2018.08.16-00.04.16:522][883]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee26ecb200, Size=208
+[2018.08.16-00.04.16:532][883]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.04.16:565][883]LogInit: FAudioDevice initialized.
+[2018.08.16-00.04.16:614][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.04.16:620][883]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.04.16
+[2018.08.16-00.04.16:622][883]LogWorld: Bringing up level for play took: 0.006421
+[2018.08.16-00.04.16:632][883]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,604
+[2018.08.16-00.04.16:633][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.04.21:362][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.04.21:382][162]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.04.21:422][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.04.33:061][844]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee37e77020, Size=4, Default__SKEL_door_C Function /Game/My_Bp/door.SKEL_door_C:ExecuteUbergraph_door
+[2018.08.16-00.04.33:076][844]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee37e77020, Size=4
+[2018.08.16-00.04.33:076][844]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee37e77020, Size=4, Default__SKEL_door_C Function /Engine/Transient.REINST_SKEL_door_C_36:ExecuteUbergraph_door
+[2018.08.16-00.04.33:080][844]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee37e752a0, Size=4, Default__SKEL_door_C Function /Game/My_Bp/door.SKEL_door_C:ExecuteUbergraph_door
+[2018.08.16-00.05.07:790][908]BlueprintLog: New page: Compile door
+[2018.08.16-00.05.07:807][908]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee37e752a0, Size=4
+[2018.08.16-00.05.07:807][908]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee68fc76c8, Size=4, Default__SKEL_door_C Function /Engine/Transient.REINST_SKEL_door_C_38:ExecuteUbergraph_door
+[2018.08.16-00.05.07:825][908]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee66e0ef60, Size=208
+[2018.08.16-00.05.07:825][908]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6c642780, Size=208, Default__door_C Function /Engine/Transient.REINST_door_C_40:ExecuteUbergraph_door
+[2018.08.16-00.05.07:832][908]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee93898900, Size=288, Default__door_C Function /Game/My_Bp/door.door_C:ExecuteUbergraph_door
+[2018.08.16-00.05.08:156][908]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee68fc76c8, Size=4
+[2018.08.16-00.05.08:156][908]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee37e77020, Size=4
+[2018.08.16-00.05.09:299][971]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.05.09:331][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.09:331][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.05.09:331][971]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:05:09)
+[2018.08.16-00.05.09:332][971]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.05.09:340][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008591s)
+[2018.08.16-00.05.09:341][971]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.05.09:341][971]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.08.16-00.05.09:341][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009862s)
+[2018.08.16-00.05.09:361][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee6c642780, Size=208
+[2018.08.16-00.05.09:372][971]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.05.09:404][971]LogInit: FAudioDevice initialized.
+[2018.08.16-00.05.09:454][971]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.05.09:461][971]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.05.09
+[2018.08.16-00.05.09:462][971]LogWorld: Bringing up level for play took: 0.005974
+[2018.08.16-00.05.09:470][971]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,558
+[2018.08.16-00.05.09:471][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.16:264][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.16:284][369]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.05.16:332][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.35:761][523]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.05.35:783][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.35:783][523]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.16-00.05.35:801][523]LogPlayLevel: [PlayLevel] Compiling door before play...
+[2018.08.16-00.05.35:817][523]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee93898900, Size=288
+[2018.08.16-00.05.35:817][523]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee936e7100, Size=288, Default__door_C Function /Engine/Transient.REINST_door_C_44:ExecuteUbergraph_door
+[2018.08.16-00.05.35:824][523]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee936e5e40, Size=288, Default__door_C Function /Game/My_Bp/door.door_C:ExecuteUbergraph_door
+[2018.08.16-00.05.36:165][523]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee936e7100, Size=288
+[2018.08.16-00.05.36:167][523]LogPlayLevel: PlayLevel: Blueprint regeneration took 382 ms (1 blueprints)
+[2018.08.16-00.05.36:167][523]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:05:36)
+[2018.08.16-00.05.36:167][523]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.05.36:176][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009397s)
+[2018.08.16-00.05.36:177][523]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.05.36:177][523]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2018.08.16-00.05.36:177][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010999s)
+[2018.08.16-00.05.36:209][523]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.05.36:241][523]LogInit: FAudioDevice initialized.
+[2018.08.16-00.05.36:292][523]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.05.36:297][523]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.05.36
+[2018.08.16-00.05.36:298][523]LogWorld: Bringing up level for play took: 0.005077
+[2018.08.16-00.05.36:308][523]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,28
+[2018.08.16-00.05.36:309][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.36:450][524]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.084031 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2018.08.16-00.05.41:957][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.42:015][853]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.05.42:052][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.57:734][784]BlueprintLog: New page: Compile door
+[2018.08.16-00.05.57:770][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee936e5e40, Size=288
+[2018.08.16-00.05.57:770][784]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6033ce00, Size=288, Default__door_C Function /Engine/Transient.REINST_door_C_48:ExecuteUbergraph_door
+[2018.08.16-00.05.57:777][784]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee6033e840, Size=288, Default__door_C Function /Game/My_Bp/door.door_C:ExecuteUbergraph_door
+[2018.08.16-00.05.58:550][806]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.05.58:582][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.05.58:582][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.05.58:582][806]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:05:58)
+[2018.08.16-00.05.58:582][806]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.05.58:593][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010176s)
+[2018.08.16-00.05.58:593][806]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.05.58:593][806]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2018.08.16-00.05.58:593][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.011684s)
+[2018.08.16-00.05.58:614][806]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee6033ce00, Size=288
+[2018.08.16-00.05.58:625][806]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.05.58:666][806]LogInit: FAudioDevice initialized.
+[2018.08.16-00.05.58:719][806]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.05.58:726][806]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.05.58
+[2018.08.16-00.05.58:726][806]LogWorld: Bringing up level for play took: 0.005463
+[2018.08.16-00.05.58:735][806]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,707
+[2018.08.16-00.05.58:736][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.06.19:128][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.06.19:148][ 18]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.06.19:198][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.06.24:434][301]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.08.16-00.06.31:899][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.06.31:965][736]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.06.31:991][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.06.31:992][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.06.31:992][736]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:06:31)
+[2018.08.16-00.06.31:992][736]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.06.32:001][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008990s)
+[2018.08.16-00.06.32:001][736]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.06.32:002][736]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2018.08.16-00.06.32:002][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010480s)
+[2018.08.16-00.06.32:035][736]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.06.32:067][736]LogInit: FAudioDevice initialized.
+[2018.08.16-00.06.32:123][736]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.06.32:129][736]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.06.32
+[2018.08.16-00.06.32:129][736]LogWorld: Bringing up level for play took: 0.004732
+[2018.08.16-00.06.32:138][736]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,11
+[2018.08.16-00.06.32:139][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.07.02:145][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.07.02:168][532]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.07.02:220][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.07.05:487][724]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.07.20:895][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.07.20:994][609]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.07.21:016][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.07.21:016][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.07.21:016][609]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:07:21)
+[2018.08.16-00.07.21:016][609]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.07.21:024][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008017s)
+[2018.08.16-00.07.21:025][609]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.07.21:025][609]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2018.08.16-00.07.21:025][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009171s)
+[2018.08.16-00.07.21:059][609]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.07.21:100][609]LogInit: FAudioDevice initialized.
+[2018.08.16-00.07.21:149][609]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.07.21:158][609]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.07.21
+[2018.08.16-00.07.21:159][609]LogWorld: Bringing up level for play took: 0.008380
+[2018.08.16-00.07.21:171][609]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 1,143
+[2018.08.16-00.07.21:172][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.07.32:014][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.07.32:036][255]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.07.32:080][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.07.33:442][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_033)
+[2018.08.16-00.07.34:295][375]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.07.42:346][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.07.42:430][853]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.07.42:450][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.07.42:450][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.07.42:450][853]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:07:42)
+[2018.08.16-00.07.42:450][853]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.07.42:458][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008271s)
+[2018.08.16-00.07.42:459][853]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.07.42:460][853]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.08.16-00.07.42:460][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009563s)
+[2018.08.16-00.07.42:490][853]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.07.42:520][853]LogInit: FAudioDevice initialized.
+[2018.08.16-00.07.42:569][853]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.07.42:575][853]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.07.42
+[2018.08.16-00.07.42:575][853]LogWorld: Bringing up level for play took: 0.006676
+[2018.08.16-00.07.42:585][853]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,556
+[2018.08.16-00.07.42:585][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.08.01:708][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.08.01:728][996]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.08.01:767][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.08.10:106][490]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.08.13:975][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_115)
+[2018.08.16-00.08.15:276][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_033)
+[2018.08.16-00.08.24:843][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_033)
+[2018.08.16-00.08.36:561][  7]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.08.50:704][842]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.08.50:804][846]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (right)
+[2018.08.16-00.08.52:343][935]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (right)
+[2018.08.16-00.08.59:915][383]Cmd: SELECT NONE
+[2018.08.16-00.09.00:415][413]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.09.13:209][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.09.13:292][167]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.09.13:315][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.09.13:315][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.09.13:315][167]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:09:13)
+[2018.08.16-00.09.13:315][167]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.09.13:325][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009818s)
+[2018.08.16-00.09.13:326][167]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.09.13:326][167]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2018.08.16-00.09.13:326][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010880s)
+[2018.08.16-00.09.13:361][167]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.09.13:398][167]LogInit: FAudioDevice initialized.
+[2018.08.16-00.09.13:447][167]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.09.13:454][167]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.09.13
+[2018.08.16-00.09.13:455][167]LogWorld: Bringing up level for play took: 0.007889
+[2018.08.16-00.09.13:464][167]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,564
+[2018.08.16-00.09.13:464][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.09.25:599][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.09.25:620][891]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.09.25:659][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.09.29:194][ 98]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.09.40:910][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.09.46:251][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.09.52:806][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.10.00:925][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.10.01:009][962]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.10.01:030][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.01:030][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.10.01:031][962]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:10:01)
+[2018.08.16-00.10.01:031][962]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.10.01:042][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011304s)
+[2018.08.16-00.10.01:043][962]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.10.01:043][962]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2018.08.16-00.10.01:043][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.012635s)
+[2018.08.16-00.10.01:076][962]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.10.01:106][962]LogInit: FAudioDevice initialized.
+[2018.08.16-00.10.01:156][962]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.10.01:162][962]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.10.01
+[2018.08.16-00.10.01:163][962]LogWorld: Bringing up level for play took: 0.006236
+[2018.08.16-00.10.01:172][962]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,856
+[2018.08.16-00.10.01:173][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.13:203][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.13:224][680]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.10.13:272][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.15:035][782]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.10.16:648][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.10.21:608][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.10.21:691][155]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.10.21:717][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.21:718][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.10.21:718][155]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:10:21)
+[2018.08.16-00.10.21:718][155]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.10.21:734][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016027s)
+[2018.08.16-00.10.21:735][155]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.10.21:735][155]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2018.08.16-00.10.21:735][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.017405s)
+[2018.08.16-00.10.21:767][155]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.10.21:805][155]LogInit: FAudioDevice initialized.
+[2018.08.16-00.10.21:857][155]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.10.21:863][155]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.10.21
+[2018.08.16-00.10.21:864][155]LogWorld: Bringing up level for play took: 0.006501
+[2018.08.16-00.10.21:875][155]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,154
+[2018.08.16-00.10.21:875][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.23:299][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.23:323][236]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.10.23:368][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.30:993][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.16-00.10.31:564][716]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.16-00.10.38:570][974]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.16-00.10.38:919][974]Cmd: SELECT NONE
+[2018.08.16-00.10.39:768][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.16-00.10.40:178][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.16-00.10.43:122][214]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.16-00.10.44:323][280]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.16-00.10.44:741][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.10.45:192][331]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.10.45:216][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.45:216][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.10.45:216][331]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:10:45)
+[2018.08.16-00.10.45:216][331]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.10.45:224][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008208s)
+[2018.08.16-00.10.45:225][331]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.10.45:226][331]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2018.08.16-00.10.45:226][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009765s)
+[2018.08.16-00.10.45:255][331]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.10.45:287][331]LogInit: FAudioDevice initialized.
+[2018.08.16-00.10.45:339][331]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.10.45:346][331]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.10.45
+[2018.08.16-00.10.45:346][331]LogWorld: Bringing up level for play took: 0.005193
+[2018.08.16-00.10.45:354][331]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,674
+[2018.08.16-00.10.45:355][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.49:315][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.49:335][565]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.10.49:380][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.10.50:824][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.16-00.10.53:023][769]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.11.00:926][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.11.00:993][234]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.11.01:014][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.01:014][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.11.01:014][234]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:11:01)
+[2018.08.16-00.11.01:014][234]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.11.01:022][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008072s)
+[2018.08.16-00.11.01:024][234]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.11.01:024][234]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2018.08.16-00.11.01:024][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009666s)
+[2018.08.16-00.11.01:057][234]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.11.01:089][234]LogInit: FAudioDevice initialized.
+[2018.08.16-00.11.01:135][234]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.11.01:142][234]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.11.01
+[2018.08.16-00.11.01:142][234]LogWorld: Bringing up level for play took: 0.006122
+[2018.08.16-00.11.01:150][234]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 1,122
+[2018.08.16-00.11.01:151][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.05:565][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.05:585][495]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.11.05:625][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.06:388][538]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.11.09:563][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.16-00.11.10:166][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.11.10:249][763]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.11.10:270][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.10:270][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.11.10:270][763]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:11:10)
+[2018.08.16-00.11.10:270][763]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.11.10:279][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008672s)
+[2018.08.16-00.11.10:280][763]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.11.10:280][763]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2018.08.16-00.11.10:280][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010342s)
+[2018.08.16-00.11.10:310][763]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.11.10:350][763]LogInit: FAudioDevice initialized.
+[2018.08.16-00.11.10:397][763]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.11.10:402][763]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.11.10
+[2018.08.16-00.11.10:403][763]LogWorld: Bringing up level for play took: 0.005415
+[2018.08.16-00.11.10:411][763]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,384
+[2018.08.16-00.11.10:413][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.14:804][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.14:823][ 23]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.11.14:864][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.15:477][ 58]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.11.19:175][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.11.19:275][282]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.11.19:296][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.19:296][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.11.19:296][282]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:11:19)
+[2018.08.16-00.11.19:296][282]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.11.19:305][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008192s)
+[2018.08.16-00.11.19:306][282]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.11.19:306][282]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2018.08.16-00.11.19:306][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009651s)
+[2018.08.16-00.11.19:336][282]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.11.19:365][282]LogInit: FAudioDevice initialized.
+[2018.08.16-00.11.19:413][282]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.11.19:420][282]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.11.19
+[2018.08.16-00.11.19:421][282]LogWorld: Bringing up level for play took: 0.007236
+[2018.08.16-00.11.19:428][282]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,6
+[2018.08.16-00.11.19:429][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.24:447][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.24:467][580]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.11.24:509][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.11.25:205][620]LogEditorViewport: Clicking on Actor (LMB): door_C (door2)
+[2018.08.16-00.11.33:441][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_033)
+[2018.08.16-00.11.35:964][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane)
+[2018.08.16-00.11.37:216][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.16-00.11.50:198][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.12.16:172][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.12.16:255][642]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.12.16:276][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.12.16:276][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.12.16:277][642]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:12:16)
+[2018.08.16-00.12.16:277][642]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.12.16:285][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008353s)
+[2018.08.16-00.12.16:286][642]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.12.16:287][642]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2018.08.16-00.12.16:287][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010090s)
+[2018.08.16-00.12.16:319][642]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.12.16:350][642]LogInit: FAudioDevice initialized.
+[2018.08.16-00.12.16:397][642]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.12.16:407][642]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.12.16
+[2018.08.16-00.12.16:407][642]LogWorld: Bringing up level for play took: 0.008383
+[2018.08.16-00.12.16:415][642]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo 0,387
+[2018.08.16-00.12.16:416][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.12.18:001][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.12.18:043][733]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.12.18:090][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.12.21:191][917]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.16-00.12.21:920][959]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.16-00.12.24:021][ 82]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.16-00.12.25:386][163]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.16-00.12.29:117][383]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.16-00.12.29:646][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.12.29:729][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.12.29:750][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.12.29:750][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.12.29:750][419]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:12:29)
+[2018.08.16-00.12.29:750][419]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.12.29:759][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008321s)
+[2018.08.16-00.12.29:760][419]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.12.29:761][419]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2018.08.16-00.12.29:761][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.009869s)
+[2018.08.16-00.12.29:790][419]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.12.29:823][419]LogInit: FAudioDevice initialized.
+[2018.08.16-00.12.29:874][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.12.29:882][419]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.12.29
+[2018.08.16-00.12.29:882][419]LogWorld: Bringing up level for play took: 0.006838
+[2018.08.16-00.12.29:892][419]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,137
+[2018.08.16-00.12.29:892][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.12.41:430][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.12.41:451][107]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.12.41:496][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.12.44:549][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.16-00.12.44:627][188]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee220d4500, Size=120
+[2018.08.16-00.12.44:627][188]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee4edd5680, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_52:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.12.44:629][188]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee4edd7480, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.12.44:907][188]LogSavePackage: Save=285.41ms
+[2018.08.16-00.12.44:907][188]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/Tech_demo1A3852EB4A1D979F78108B94255E50A2.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.16-00.12.44:975][188]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.16-00.12.45:020][188]LogFileHelpers: Saving map 'Tech_demo' took 0.653
+[2018.08.16-00.12.45:058][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/door" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/door.uasset" SILENT=true
+[2018.08.16-00.12.45:190][188]LogSavePackage: Save=102.28ms
+[2018.08.16-00.12.45:190][188]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/door7C822FAB4B45637BA9BFCBB150784357.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/door.uasset'
+[2018.08.16-00.12.45:198][188]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/door.uasset
+[2018.08.16-00.21.39:639][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.21.53:477][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee4edd5680, Size=120
+[2018.08.16-00.22.15:206][760]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Plugins/. Error: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2018.08.16-00.22.26:803][236]LogSlate: Window 'Plugins' being destroyed
+[2018.08.16-00.22.26:809][236]LogSlate: Window 'Plugins' being destroyed
+[2018.08.16-00.22.26:809][236]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.08.16-00.23.01:960][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.42.03:518][524]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Mahir\Desktop\Studio things\scifi grid\grid.fbx)
+[2018.08.16-00.42.03:675][524]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.16-00.42.03:675][524]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.16-00.42.03:675][524]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.16-00.42.03:694][524]LogFbx: Loading FBX Scene from C:\Users\Mahir\Desktop\Studio things\scifi grid\grid.fbx
+[2018.08.16-00.42.03:727][524]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.16-00.42.04:928][524]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.16-00.42.04:990][524]LogFbx: Loading FBX Scene from C:\Users\Mahir\Desktop\Studio things\scifi grid\grid.fbx
+[2018.08.16-00.42.04:996][524]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.16-00.42.05:002][524]LogFbx: Warning: Triangulating static mesh Plane
+[2018.08.16-00.42.05:084][524]LogStaticMesh: Building static mesh grid...
+[2018.08.16-00.42.05:118][524]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/grid/grid.grid
+[2018.08.16-00.42.05:244][524]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.16-00.42.06:462][593]LogSlate: Window 'Message Log' being destroyed
+[2018.08.16-00.42.06:465][593]LogSlate: Window 'Message Log' being destroyed
+[2018.08.16-00.42.11:995][647]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Mahir\Desktop\Studio things\scifi grid\grid_DefaultMaterial_BaseColor.png)
+[2018.08.16-00.42.12:066][647]LogTexture: Display: Building textures: grid_DefaultMaterial_BaseColor (AutoDXT, 1024X1024)
+[2018.08.16-00.42.12:372][647]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Mahir\Desktop\Studio things\scifi grid\grid_DefaultMaterial_Normal.png)
+[2018.08.16-00.42.12:420][647]LogTexture: Display: Building textures: grid_DefaultMaterial_Normal (BC5, 1024X1024)
+[2018.08.16-00.42.12:519][647]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Mahir\Desktop\Studio things\scifi grid\grid_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2018.08.16-00.42.12:560][647]LogTexture: Display: Building textures: grid_DefaultMaterial_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.08.16-00.42.33:308][753]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.42.34:171][753]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.42.34:190][753]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.42.34:190][753]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.42.34:190][753]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.42.34:190][753]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.42.34:211][753]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.42.36:355][855]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.42.36:355][855]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.42.36:355][855]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.42.36:355][855]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.42.36:443][858]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-00.42.36:469][859]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.16-00.42.36:488][860]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.16-00.42.36:506][861]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.16-00.42.36:690][871]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.16-00.42.36:709][872]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.16-00.42.36:728][873]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.16-00.42.36:990][887]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.16-00.42.37:020][889]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.16-00.42.37:271][901]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.16-00.42.37:288][903]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-00.42.37:302][904]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.16-00.42.37:694][925]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.16-00.42.37:694][925]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.16-00.42.37:694][925]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.16-00.42.37:694][925]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.16-00.42.39:986][ 54]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.42.40:027][ 54]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.42.40:027][ 54]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.42.40:027][ 54]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.42.40:027][ 54]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.42.40:027][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.16-00.42.40:064][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.16-00.42.40:085][ 54]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.42.40:098][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.08.16-00.42.40:132][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.16-00.42.40:157][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.08.16-00.42.40:180][ 54]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.42.40:195][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.08.16-00.42.40:227][ 54]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.42.40:227][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.16-00.42.40:246][ 54]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.16-00.42.40:246][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.08.16-00.42.40:251][ 54]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.42.40:251][ 54]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.42.40:251][ 54]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.08.16-00.42.40:458][ 59]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.16-00.42.40:514][ 62]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.16-00.42.40:531][ 63]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.42.40:565][ 65]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.42.40:748][ 73]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.42.40:775][ 75]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.42.40:796][ 76]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-00.42.41:114][ 91]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.16-00.42.41:134][ 92]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.16-00.42.41:339][102]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.16-00.42.41:415][105]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.16-00.42.41:453][107]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.16-00.42.41:744][122]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.16-00.42.41:775][124]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.16-00.42.41:856][129]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.16-00.42.42:031][139]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.16-00.42.42:053][140]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-00.42.42:075][140]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.16-00.42.42:368][141]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.16-00.42.42:368][141]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.16-00.42.42:368][141]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.16-00.42.42:368][141]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.16-00.42.48:964][511]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.42.48:977][511]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.42.48:977][511]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.42.48:977][511]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.42.48:977][511]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.42.49:019][511]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.08.16-00.42.49:259][519]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.42.49:279][520]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.42.49:296][521]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-00.42.49:310][522]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.16-00.42.49:502][532]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.16-00.42.49:528][533]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.16-00.42.49:545][534]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.16-00.42.49:784][546]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.16-00.42.49:822][548]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.16-00.42.49:995][557]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.16-00.42.50:058][560]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.16-00.42.50:112][563]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.16-00.42.50:371][576]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-00.42.50:404][578]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.16-00.42.50:526][585]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.08.16-00.42.50:527][585]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.08.16-00.42.50:527][585]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.08.16-00.42.50:527][585]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.16-00.42.50:527][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.16-00.43.03:404][247]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.43.03:415][247]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.43.03:416][247]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.43.03:416][247]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.43.03:416][247]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.43.03:743][247]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-00.43.03:743][247]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.16-00.43.03:743][247]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.16-00.43.03:743][247]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.16-00.43.03:743][247]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.08.16-00.43.03:813][249]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.16-00.43.03:879][253]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.16-00.43.03:879][253]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.16-00.43.04:129][267]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.16-00.43.04:180][270]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.16-00.43.04:353][280]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.16-00.43.04:369][281]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.16-00.43.04:455][286]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.16-00.43.04:676][296]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-00.43.04:804][303]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.16-00.43.04:896][308]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.08.16-00.43.04:896][308]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.08.16-00.43.04:896][308]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.08.16-00.43.04:896][308]MaterialEditorStats: Texture samplers: 4/16
+[2018.08.16-00.43.04:896][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.16-00.43.10:079][617]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.43.10:120][617]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.43.10:120][617]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.43.10:120][617]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.43.10:120][617]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.43.10:120][617]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.08.16-00.43.10:358][627]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.43.10:393][629]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.43.10:393][629]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-00.43.10:423][631]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.16-00.43.10:596][640]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.16-00.43.10:611][641]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.16-00.43.10:646][643]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.16-00.43.10:881][656]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.16-00.43.11:327][681]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.16-00.43.11:342][682]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.16-00.43.11:343][682]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.16-00.43.11:343][682]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.16-00.43.11:595][695]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-00.43.11:669][697]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.16-00.43.11:840][706]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.08.16-00.43.11:841][706]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.08.16-00.43.11:841][706]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.08.16-00.43.11:841][706]MaterialEditorStats: Texture samplers: 4/16
+[2018.08.16-00.43.11:841][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.16-00.43.13:784][822]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.43.13:798][822]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.43.13:798][822]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.43.13:798][822]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.43.13:798][822]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.43.13:850][822]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.08.16-00.43.14:091][832]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.43.14:107][833]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.43.14:118][834]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-00.43.14:118][834]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.16-00.43.14:301][844]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.16-00.43.14:336][846]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.16-00.43.14:351][847]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.16-00.43.14:568][858]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.16-00.43.14:626][861]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.16-00.43.14:814][871]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.16-00.43.14:849][873]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.16-00.43.14:901][876]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.16-00.43.15:115][887]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-00.43.15:215][893]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.16-00.43.16:080][937]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.43.16:088][937]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.43.16:089][937]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.43.16:089][937]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.43.16:089][937]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.43.16:092][937]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.16-00.43.16:401][952]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.43.16:418][953]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.43.16:434][954]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-00.43.16:447][955]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.16-00.43.16:620][963]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.16-00.43.16:659][965]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.16-00.43.16:676][966]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.16-00.43.16:946][980]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.16-00.43.17:360][998]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.16-00.43.17:432][998]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.16-00.43.17:432][998]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.16-00.43.17:432][998]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.16-00.43.17:650][  5]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-00.43.17:759][ 10]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.16-00.43.17:915][ 18]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.08.16-00.43.17:915][ 18]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.08.16-00.43.17:915][ 18]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.08.16-00.43.17:915][ 18]MaterialEditorStats: Texture samplers: 5/16
+[2018.08.16-00.43.17:915][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.16-00.43.23:298][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.43.33:901][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.43.37:577][ 17]LogRenderer: Reallocating scene render targets to support 1340x964 Format 10 NumSamples 1 (Frame:64).
+[2018.08.16-00.43.43:220][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.43.51:960][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/grid/mat_grid" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/mat_grid.uasset" SILENT=true
+[2018.08.16-00.43.51:985][817]LogSavePackage: Save=20.21ms
+[2018.08.16-00.43.51:985][817]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/mat_grid83A0837249798678D0061E983FEEDC4F.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/mat_grid.uasset'
+[2018.08.16-00.43.51:994][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/mat_grid.uasset
+[2018.08.16-00.43.52:079][817]LogSavePackage: Save=63.85ms
+[2018.08.16-00.43.52:079][817]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/grid_DefaultMaterial_OcclusionRo58637BA94C292635189AF988DACFF30D.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2018.08.16-00.43.52:087][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid_DefaultMaterial_OcclusionRoughnessMetallic.uasset
+[2018.08.16-00.43.52:157][817]LogSavePackage: Save=50.41ms
+[2018.08.16-00.43.52:157][817]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/grid_DefaultMaterial_Normal29C6E3B940522E6617F383BDD0107871.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid_DefaultMaterial_Normal.uasset'
+[2018.08.16-00.43.52:163][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid_DefaultMaterial_Normal.uasset
+[2018.08.16-00.43.52:239][817]LogSavePackage: Save=60.62ms
+[2018.08.16-00.43.52:239][817]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/grid_DefaultMaterial_BaseColorAD01CC6F426173F40DF4A48C58D8E0B4.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid_DefaultMaterial_BaseColor.uasset'
+[2018.08.16-00.43.52:245][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid_DefaultMaterial_BaseColor.uasset
+[2018.08.16-00.43.52:266][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/grid/grid" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid.uasset" SILENT=true
+[2018.08.16-00.43.52:288][817]LogSavePackage: Save=18.98ms
+[2018.08.16-00.43.52:288][817]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/gridE210095C4C0166761DA6259A607EA7B5.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid.uasset'
+[2018.08.16-00.43.52:294][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/grid.uasset
+[2018.08.16-00.43.58:524][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.43.59:206][231]LogMaterialEditor: Applying material mat_grid
+[2018.08.16-00.44.01:158][231]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.44.01:188][231]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-00.44.01:188][231]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-00.44.01:188][231]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-00.44.01:188][231]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-00.44.01:426][231]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.44.01:443][231]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-00.44.01:699][231]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat_grid, compiling. 
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-00.44.03:290][231]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-00.44.03:311][231]TextureStreamingBuild: Display: Compiling optional shaders took 1.648 seconds.
+[2018.08.16-00.44.03:959][263]LogMaterialEditor: Saving and Compiling material mat_grid
+[2018.08.16-00.44.05:484][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/grid/mat_grid" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/mat_grid.uasset" SILENT=true
+[2018.08.16-00.44.05:539][263]LogSavePackage: Save=20.75ms
+[2018.08.16-00.44.05:539][263]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/mat_gridCD6BFB644626D25E7AC5F595B5CE0038.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/mat_grid.uasset'
+[2018.08.16-00.44.05:546][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/meshes/grid/mat_grid.uasset
+[2018.08.16-00.44.05:557][263]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.08.16-00.44.05:558][263]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.08.16-00.44.05:558][263]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.08.16-00.44.05:558][263]MaterialEditorStats: Texture samplers: 6/16
+[2018.08.16-00.44.05:558][263]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.16-00.44.12:314][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.44.18:199][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.44.20:170][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.44.23:665][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.44.29:475][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.44.29:791][714]LogActorFactory: Actor Factory created grid
+[2018.08.16-00.44.30:712][769]LogActorFactory: Actor Factory created grid
+[2018.08.16-00.44.43:224][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grid)
+[2018.08.16-00.44.44:501][591]Cmd: DELETE
+[2018.08.16-00.44.44:501][591]Cmd: ACTOR DELETE
+[2018.08.16-00.44.45:184][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.16-00.44.45:205][591]LogEditorActor: Deleted 1 Actors (0.543 secs)
+[2018.08.16-00.44.45:402][603]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.08.16-00.44.45:482][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.44.47:027][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.16-00.44.48:347][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.44.59:293][241]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.16-00.45.03:768][424]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.16-00.48.14:499][201]BlueprintLog: New page: Compile gridmaker
+[2018.08.16-00.48.51:772][278]BlueprintLog: New page: Compile gridmaker
+[2018.08.16-00.49.00:654][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_final_Plane_116)
+[2018.08.16-00.49.00:933][759]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.16-00.49.02:030][822]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.08.16-00.49.02:159][827]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.16-00.49.04:364][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.49.13:017][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.49.25:576][202]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.16-00.49.29:705][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.49.33:129][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.16-00.49.33:184][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee4edd7480, Size=120
+[2018.08.16-00.49.33:184][639]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee733ab100, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_96:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.49.33:186][639]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee733aad80, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.49.33:420][639]LogSavePackage: Save=240.45ms
+[2018.08.16-00.49.33:420][639]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/Tech_demo61615397415AD2EEDA3685818DA1F174.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.16-00.49.33:427][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.16-00.49.33:472][639]LogFileHelpers: Saving map 'Tech_demo' took 0.507
+[2018.08.16-00.49.33:486][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/construck_bp/gridmaker" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset" SILENT=true
+[2018.08.16-00.49.33:519][639]LogSavePackage: Save=28.88ms
+[2018.08.16-00.49.33:519][639]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/gridmaker820980D7426006B364E0199845F393D3.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset'
+[2018.08.16-00.49.33:525][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset
+[2018.08.16-00.49.34:813][716]LogEditorViewport: Clicking on Actor (LMB): gridmaker_C (gridmaker)
+[2018.08.16-00.49.43:166][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.50.23:535][956]BlueprintLog: New page: Compile gridmaker
+[2018.08.16-00.50.23:790][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee733ab100, Size=120
+[2018.08.16-00.50.28:880][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.51.20:379][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.51.24:337][241]Cmd: SELECT NONE
+[2018.08.16-00.51.24:987][280]Cmd: SELECT NONE
+[2018.08.16-00.51.40:325][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.16-00.51.40:372][882]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee733aad80, Size=120
+[2018.08.16-00.51.40:372][882]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eed49b5d80, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_104:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.51.40:374][882]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eed49b6c80, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.51.40:597][882]LogSavePackage: Save=230.54ms
+[2018.08.16-00.51.40:597][882]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/Tech_demoB56135E04DB35F077B4FB8B9EF472BF9.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.16-00.51.40:605][882]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.16-00.51.40:641][882]LogFileHelpers: Saving map 'Tech_demo' took 0.478
+[2018.08.16-00.51.40:655][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/construck_bp/gridmaker" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset" SILENT=true
+[2018.08.16-00.51.40:705][882]LogSavePackage: Save=24.57ms
+[2018.08.16-00.51.40:705][882]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/gridmaker08001F414B3A87D9C5B71FBEF88CD62F.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset'
+[2018.08.16-00.51.40:713][882]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset
+[2018.08.16-00.53.50:977][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.53.57:092][516]LogEditorViewport: Clicking on Actor (LMB): gridmaker_C (gridmaker)
+[2018.08.16-00.53.58:234][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.55.59:975][912]BlueprintLog: New page: Compile gridmaker
+[2018.08.16-00.56.00:239][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eed49b5d80, Size=120
+[2018.08.16-00.56.02:454][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.16-00.56.03:610][ 74]LogEditorViewport: Clicking on Actor (LMB): gridmaker_C (gridmaker)
+[2018.08.16-00.56.04:656][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.57.10:080][405]BlueprintLog: New page: Compile gridmaker
+[2018.08.16-00.57.20:905][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.57.22:411][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Maps/Tech_demo" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.16-00.57.22:467][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eed49b6c80, Size=120
+[2018.08.16-00.57.22:467][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eed0e01100, Size=120, Default__Tech_demo_C Function /Engine/Transient.REINST_Tech_demo_C_116:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.57.22:469][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eed0e00380, Size=120, Default__Tech_demo_C Function /Game/map/Maps/Tech_demo.Tech_demo_C:ExecuteUbergraph_Tech_demo
+[2018.08.16-00.57.22:695][ 73]LogSavePackage: Save=233.26ms
+[2018.08.16-00.57.22:695][ 73]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/Tech_demo9DD1D73E4A047569505CAE923BE951EB.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap'
+[2018.08.16-00.57.22:702][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/map/Maps/Tech_demo.umap
+[2018.08.16-00.57.22:738][ 73]LogFileHelpers: Saving map 'Tech_demo' took 0.491
+[2018.08.16-00.57.22:743][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/construck_bp/gridmaker" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset" SILENT=true
+[2018.08.16-00.57.22:792][ 73]LogSavePackage: Save=22.94ms
+[2018.08.16-00.57.22:792][ 73]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/gridmakerAC9344F841105E25EADBEB84DAEAABFC.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset'
+[2018.08.16-00.57.22:800][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmaker.uasset
+[2018.08.16-00.57.23:821][134]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.16-00.57.23:861][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.57.23:861][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-00.57.23:862][134]PIE: New page: PIE session: Tech_demo (16 Ağu 2018 06:57:23)
+[2018.08.16-00.57.23:862][134]LogPlayLevel: Creating play world package: /Game/map/Maps/UEDPIE_0_Tech_demo
+[2018.08.16-00.57.23:871][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009187s)
+[2018.08.16-00.57.23:872][134]LogAIModule: Creating AISystem for world Tech_demo
+[2018.08.16-00.57.23:872][134]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2018.08.16-00.57.23:873][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/Maps/Tech_demo.Tech_demo to /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo (0.010860s)
+[2018.08.16-00.57.23:894][134]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eed0e01100, Size=120
+[2018.08.16-00.57.23:906][134]LogInit: XAudio2 using 'Kulaklıklar (2- SteelSeries Siberia 150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.16-00.57.23:938][134]LogInit: FAudioDevice initialized.
+[2018.08.16-00.57.23:987][134]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-00.57.23:993][134]LogWorld: Bringing World /Game/map/Maps/UEDPIE_0_Tech_demo.Tech_demo up for play (max tick rate 60) at 2018.08.16-03.57.23
+[2018.08.16-00.57.23:994][134]LogWorld: Bringing up level for play took: 0.005530
+[2018.08.16-00.57.24:003][134]PIE: Play in editor start time for /Game/map/Maps/UEDPIE_0_Tech_demo -0,026
+[2018.08.16-00.57.24:003][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.57.34:802][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.57.34:823][778]LogSlate: Window 'Am_i_Free Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.16-00.57.34:884][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel' has LevelScriptBlueprint '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo' with GeneratedClass '/Game/map/Maps/Tech_demo.Tech_demo_C' with ClassGeneratedBy '/Game/map/Maps/Tech_demo.Tech_demo:PersistentLevel.Tech_demo'
+[2018.08.16-00.57.38:323][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-00.57.42:060][203]LogEditorViewport: Clicking on Actor (LMB): gridmaker_C (gridmaker)
+[2018.08.16-00.57.48:464][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-00.57.50:760][654]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.16-00.58.12:454][918]BlueprintLog: New page: Compile gridmakervol2
+[2018.08.16-01.00.48:385][111]BlueprintLog: New page: Compile gridmakervol2
+[2018.08.16-01.00.52:539][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_Bp/construck_bp/gridmakervol2" FILE="../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmakervol2.uasset" SILENT=true
+[2018.08.16-01.00.52:581][342]LogSavePackage: Save=37.61ms
+[2018.08.16-01.00.52:581][342]LogSavePackage: Moving '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Saved/gridmakervol29663144444ED21EA91DE7C8E687E9CE0.tmp' to '../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmakervol2.uasset'
+[2018.08.16-01.00.52:588][342]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahir/Documents/GitHub/VogsAmIFree/Content/My_Bp/construck_bp/gridmakervol2.uasset
+[2018.08.16-01.01.06:896][150]LogMaterial: Warning: Material /Game/meshes/grid/mat_grid.mat_grid needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.08.16-01.01.06:896][150]LogMaterial: Warning: Material /Engine/Transient.mat_grid needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.08.16-01.01.06:920][150]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-01.01.06:928][150]LogMaterial: Missing cached shader map for material mat_grid, compiling. 
+[2018.08.16-01.01.06:941][150]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.16-01.01.06:941][150]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.16-01.01.06:941][150]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-01.01.06:941][150]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-01.01.07:692][182]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.08.16-01.01.07:745][184]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.08.16-01.01.07:745][184]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.08.16-01.01.07:745][184]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.08.16-01.01.07:923][190]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.16-01.01.08:012][193]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.16-01.01.08:044][194]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.08.16-01.01.08:284][202]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.16-01.01.08:339][204]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.16-01.01.08:496][210]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.16-01.01.08:582][213]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.16-01.01.08:632][215]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.16-01.01.08:880][223]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.16-01.01.08:963][226]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.16-01.01.08:982][227]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.16-01.01.09:252][229]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.16-01.01.11:201][300]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.16-01.01.12:862][383]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.08.16-01.01.12:862][383]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.08.16-01.01.12:862][383]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.08.16-01.01.12:862][383]MaterialEditorStats: Texture samplers: 6/16
+[2018.08.16-01.01.12:862][383]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.16-01.01.14:854][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.01.18:449][654]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.16-01.01.20:645][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.01.48:981][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.01.56:347][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.16-01.01.59:945][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.02.10:063][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.02.20:282][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.02.38:456][422]LogEditorViewport: Clicking on Actor (LMB): gridmaker_C (gridmaker)
+[2018.08.16-01.03.08:722][222]LogEditorViewport: Clicking on Actor (LMB): gridmaker_C (gridmaker)
+[2018.08.16-01.03.17:807][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.03.27:955][367]BlueprintLog: New page: Compile gridmaker
+[2018.08.16-01.04.03:336][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.04.10:096][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-01.04.16:455][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
